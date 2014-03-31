@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023638</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>3440398919</online_identifier>
+    <ticket_type>D</ticket_type>
+    <ready_date>03/16/2014</ready_date>
+    <ready_time>12:35:00</ready_time>
+    <subtotal>30.25</subtotal>
+    <delivery_fee>2.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>2.00</gratuity>
+    <sales_tax id="1">1.63</sales_tax>
+    <total>32.85</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="14" name="Gluten Free(10)" amount="16.25"/>
+      <kitchen_msg message="test1"/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <topping id="77" name="Andouille Sausage" location=""/>
+      <sauce id="729" name="Traditional Homemade Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="H2"/>
+      <topping id="84" name="Fresh Basil" location="H1"/>
+      <topping id="108" name="Green Onions" location="H2"/>
+      <topping id="90" name="Sun Dried Tomatos" location="H2"/>
+      <topping id="73" name="Italian Sausage" location="H1"/>
+      <topping id="74" name="Pepperoni" location="H1"/>
+      <topping id="83" name="Mesquite Chicken" location="H1"/>
+      <modifier id="389" name="Anchovies" amount="0.25"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+    <ticket_item id="1" type="Regular" quantity="1" name="Italian Club">
+      <size id="1" name="" amount="8.25"/>
+      <kitchen_msg message="test2"/>
+      <modifier id="39" name="French Roll" amount="0.00"/>
+      <topping id="89" name="Tomato" location=""/>
+      <modifier id="479" name="Mustard" amount="0.00"/>
+      <modifier id="733" name="Mayonnaise" amount="0.00"/>
+      <modifier id="216" name="Lettuce" amount="0.00"/>
+      <modifier id="10000" name="Pickle" amount="0.00"/>
+      <modifier id="10000" name="Chips" amount="0.00"/>
+      <modifier id="10000" name="Cookies" amount="0.00"/>
+      <modifier id="191" name="Olives" amount="0.50"/>
+      <topping id="85" name="Fresh Mushrooms" location=""/>
+      <topping id="99" name="Red Onions" location=""/>
+      <topping id="96" name="Green Peppers" location=""/>
+      <topping id="97" name="Pepperoncinis" location=""/>
+      <topping id="798" name="Jalapeos" location=""/>
+      <topping id="73" name="Italian Sausage" location="H1"/>
+      <topping id="78" name="Lean Beef" location="Whole"/>
+      <topping id="80" name="Ham" location="Whole"/>
+      <topping id="81" name="Shrimp" location="Whole"/>
+      <modifier id="389" name="Anchovies" amount="0.50"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="32.85"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

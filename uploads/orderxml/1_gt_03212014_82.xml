@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>3325398778</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/21/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>67.87</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">4.07</sales_tax>
+    <total>71.94</total>
+    <notes>Sandeep Kumar Kuldeep,Shyam Mitra Mandal Nagar, Opp. Road No-5, VKI Area,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="48" type="Pizza" quantity="1" name="The Islander Pizza">
+      <size id="3" name="Large (14)" amount="66.07"/>
+      <kitchen_msg message="test&amp;+2ffff"/>
+      <split id="48" name="The Islander Pizza"/>
+      <calculate id="113" name="Chicken Pesto" location=""/>
+      <cheese id="111" name="Mozzarella" location=""/>
+      <sauce id="109" name="Thai Chili" location=""/>
+      <modifier id="458" name="Canadian Bacon" amount="0.00"/>
+      <modifier id="463" name="Bacon" amount="0.00"/>
+      <modifier id="485" name="Red Onions" amount="0.00"/>
+      <modifier id="484" name="Green Onions" amount="0.00"/>
+      <modifier id="486" name="Pineapple" amount="0.00"/>
+      <topping id="82" name="Artichoke Hearts" location=""/>
+      <topping id="84" name="Fresh Basil" location=""/>
+      <topping id="85" name="Fresh Mushrooms" location=""/>
+      <topping id="95" name="Black Olives" location=""/>
+      <topping id="96" name="Green Peppers" location=""/>
+      <modifier id="379" name="Yellow Onions" amount="1.80"/>
+      <topping id="99" name="Red Onions" location=""/>
+      <topping id="86" name="Pineapple" location=""/>
+      <topping id="91" name="Broccoli" location=""/>
+      <topping id="87" name="Cashews" location=""/>
+      <topping id="73" name="Italian Sausage" location=""/>
+      <topping id="74" name="Pepperoni" location=""/>
+      <topping id="76" name="Canadian Bacon" location=""/>
+      <topping id="77" name="Andouille Sausage" location=""/>
+      <topping id="79" name="Bacon" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="71.94"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>4340495850</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>35.50</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">2.13</sales_tax>
+    <total>37.63</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="49" type="Pizza" quantity="1" name="All Meat Pizza">
+      <size id="14" name="Gluten Free(10)" amount="15.95"/>
+      <kitchen_msg message="test1"/>
+      <split id="49" name="All Meat Pizza"/>
+    </ticket_item>
+    <ticket_item id="49" type="Pizza" quantity="1" name="All Meat Pizza">
+      <size id="14" name="Gluten Free(10)" amount="15.95"/>
+      <kitchen_msg message="test1"/>
+      <split id="49" name="All Meat Pizza"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="37.63"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

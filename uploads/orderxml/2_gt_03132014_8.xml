@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023654</site_id>
+  <password>USID0286</password>
+  <ticket_request>
+    <online_identifier>2800871818</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>10.95</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.66</sales_tax>
+    <total>11.61</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="113" type="Pizza" quantity="1" name="Chicken Pesto">
+      <size id="6" name="Flatbread" amount="10.95"/>
+      <kitchen_msg message=""/>
+      <split id="113" name="Chicken Pesto"/>
+      <sauce id="71" name="Pesto" location=""/>
+      <topping id="537" name="Cut" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+      <modifier id="10000" name="Baked Tomatoes" amount="0.00"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+      <topping id="89" name="Fresh Tomatoes" location="Whole"/>
+      <topping id="90" name="Sun Dried Tomatos" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+      <topping id="81" name="Shrimp" location="Whole"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="11.61"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

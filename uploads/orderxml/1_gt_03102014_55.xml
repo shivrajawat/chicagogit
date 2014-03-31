@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>3316972356</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/10/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>45.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">2.73</sales_tax>
+    <total>48.18</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="48" type="Pizza" quantity="1" name="The Islander Pizza">
+      <size id="3" name="Large (14)" amount="24.85"/>
+      <kitchen_msg message="this is test order....."/>
+      <split id="48" name="The Islander Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <sauce id="109" name="Thai Chili" location=""/>
+      <modifier id="463" name="Bacon" amount="0.00"/>
+      <modifier id="458" name="Canadian Bacon" amount="0.00"/>
+      <modifier id="485" name="Red Onions" amount="0.00"/>
+      <modifier id="484" name="Green Onions" amount="0.00"/>
+      <modifier id="486" name="Pineapple" amount="0.00"/>
+      <topping id="95" name="Anchovies" location="Whole"/>
+      <topping id="98" name="Pineapple" location="Whole"/>
+      <topping id="91" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="3" name="Large (14)" amount="20.60"/>
+      <kitchen_msg message="test"/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="70" name="Olive Oil" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="99" name="Sun-Dried Tomatoes" location="H1"/>
+      <topping id="108" name="Pepperoncini" location="Whole"/>
+      <topping id="88" name="Broccoli" location="H2"/>
+      <topping id="83" name="Mesquite Chicken" location="H1"/>
+      <topping id="79" name="Salami" location="Whole"/>
+      <topping id="81" name="Shrimp" location="H2"/>
+      <topping id="10000" name="No Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="48.18"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

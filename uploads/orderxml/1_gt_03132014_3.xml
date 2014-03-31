@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>2000861376</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>24.95</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.50</sales_tax>
+    <total>26.45</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="4" name="Individual (7)" amount="5.95"/>
+      <kitchen_msg message=""/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <crust id="102" name="Deep Dish"/>
+      <topping id="538" name="Uncut" location=""/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="96" name="Green Peppers" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="95" name="Black Olives" location="Whole"/>
+      <topping id="98" name="Onions" location="Whole"/>
+    </ticket_item>
+    <ticket_item id="234" type="Regular" quantity="1" name="Create Your Own Pasta">
+      <size id="1" name="" amount="9.50"/>
+      <kitchen_msg message="test"/>
+      <modifier id="837" name="Penne" amount="0.00"/>
+      <modifier id="228" name="Creamy Rosa" amount="0.00"/>
+      <modifier id="476" name="Artichoke Hearts" amount="0.00"/>
+      <modifier id="239" name="Andouille Sausage" amount="1.50"/>
+      <modifier id="240" name="Bacon" amount="1.50"/>
+      <modifier id="241" name="Shrimp" amount="1.50"/>
+      <modifier id="243" name="Artichoke Hearts" amount="1.50"/>
+      <modifier id="237" name="Chicken" amount="1.50"/>
+      <modifier id="10000" name="Peas" amount="0.00"/>
+      <modifier id="494" name="Garlic" amount="0.00"/>
+      <modifier id="246" name="Spinach" amount="0.50"/>
+      <modifier id="254" name="Mozzarella Cheese" amount="0.50"/>
+      <modifier id="248" name="Black Olives" amount="0.50"/>
+      <modifier id="250" name="Sun-Dried Tomato" amount="0.50"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="26.45"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

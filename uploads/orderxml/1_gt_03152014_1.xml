@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>4476455003</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/15/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>94.84</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>10.00</gratuity>
+    <sales_tax id="1">5.69</sales_tax>
+    <total>110.53</total>
+    <notes>Sara Gillani Sara,,8955407926,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="2" name="Create Your Own Pizza">
+      <size id="3" name="Large (14)" amount="47.42"/>
+      <kitchen_msg message=""/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <calculate id="113" name="Chicken Pesto" location=""/>
+      <sauce id="68" name="Roasted Garlic" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="84" name="Fresh Basil" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="96" name="Green Peppers" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="77" name="Andouille Sausage" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="110.53"/>
+  <customer>
+    <first_name>Sara Gillani</first_name>
+    <last_name>Sara</last_name>
+    <addr/>
+    <city>Peshawar</city>
+    <state>Pakistan</state>
+    <postal>12345</postal>
+    <phone>8955407926</phone>
+    <email>saragillanisara@gmail.com</email>
+    <this_contact>8955407926</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

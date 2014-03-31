@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023654</site_id>
+  <password>USID0286</password>
+  <ticket_request>
+    <online_identifier>3112435058</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/21/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>28.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.71</sales_tax>
+    <total>30.16</total>
+    <notes>Surender Singh Shekhawat,qwqe q ewqe qw q eqwe qeqwe qw,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="3" name="Large (14)" amount="28.45"/>
+      <kitchen_msg message=""/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <topping id="106" name="Franks Chicken" location=""/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="96" name="Green Peppers" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="95" name="Black Olives" location="Whole"/>
+      <topping id="98" name="Onions" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="77" name="Andouille Sausage" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="30.16"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>JAIPUR</city>
+    <state>RAJASTHAN</state>
+    <postal>12345</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@yahoo.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id/>
+  <password/>
+  <ticket_request>
+    <online_identifier>3317736162</online_identifier>
+    <ticket_type>D</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>11:05:00</ready_time>
+    <subtotal>0.94</subtotal>
+    <delivery_fee>2.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.06</sales_tax>
+    <total>3.00</total>
+    <notes>Sara Gillani Sara,23- ikra lane pehwar pakistan,9878675678,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="531" type="Regular" quantity="1" name="Famous Amos Cookies">
+      <size id="1" name="" amount="0.94"/>
+      <kitchen_msg message=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="3.00"/>
+  <customer>
+    <first_name>Sara Gillani</first_name>
+    <last_name>Sara</last_name>
+    <addr>Eagle, ID, United States</addr>
+    <city>Pakistan</city>
+    <state>Pehswar</state>
+    <postal>12345</postal>
+    <phone>9878675678</phone>
+    <email>saragillanisara@gmail.com</email>
+    <this_contact>9878675678</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

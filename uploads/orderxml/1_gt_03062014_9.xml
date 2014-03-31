@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023591</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>1495462958</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/06/2014</ready_date>
+    <ready_time>06:48:00</ready_time>
+    <subtotal>34.65</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">2.08</sales_tax>
+    <total>36.73</total>
+    <notes>Irshad Khan,,9887434766,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="3" name="Large (14)" amount="15.20"/>
+      <kitchen_msg message=""/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <sauce id="645" name="Lite Sauce" location=""/>
+      <sauce id="729" name="Traditional Homemade Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="524" name="Extra Cheese" location=""/>
+      <modifier id="474" name="Ham" amount="0.00"/>
+      <modifier id="477" name="Mesquite Chicken" amount="0.00"/>
+      <modifier id="493" name="Anchovies" amount="0.00"/>
+    </ticket_item>
+    <ticket_item id="48" type="Pizza" quantity="1" name="The Islander Pizza">
+      <size id="3" name="Large (14)" amount="19.45"/>
+      <kitchen_msg message=""/>
+      <split id="48" name="The Islander Pizza"/>
+      <sauce id="645" name="Lite Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <modifier id="458" name="Canadian Bacon" amount="0.00"/>
+      <modifier id="463" name="Bacon" amount="0.00"/>
+      <modifier id="485" name="Red Onions" amount="0.00"/>
+      <modifier id="484" name="Green Onions" amount="0.00"/>
+      <modifier id="486" name="Pineapple" amount="0.00"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="36.73"/>
+  <customer>
+    <first_name>Irshad</first_name>
+    <last_name>Khan</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>20125</postal>
+    <phone>9887434766</phone>
+    <email>irshadali0001@gmail.com</email>
+    <this_contact>9887434766</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

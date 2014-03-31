@@ -1,0 +1,273 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+ font-family: 'HelveticaExtraCompressedRegular';
+ src: url('helvetica-extracompressed.eot');
+ src: url('helvetica-extracompressed.eot') format('embedded-opentype'), url('helvetica-extracompressed.woff') format('woff'), url('helvetica-extracompressed.ttf') format('truetype'), url('helvetica-extracompressed.svg#HelveticaExtraCompressedRegular') format('svg');
+}
+@font-face {
+ font-family: 'HelveticaUltraCompressedRegular';
+ src: url('helvetica-ultracompressed.eot');
+ src: url('helvetica-ultracompressed.eot') format('embedded-opentype'), url('helvetica-ultracompressed.woff') format('woff'), url('helvetica-ultracompressed.ttf') format('truetype'), url('helvetica-ultracompressed.svg#HelveticaUltraCompressedRegular') format('svg');
+}
+@font-face {
+ font-family: 'HelveticaCondensedMedium';
+ src: url('helvetica-condensed.eot');
+ src: url('helvetica-condensed.eot') format('embedded-opentype'), url('helvetica-condensed.woff') format('woff'), url('helvetica-condensed.ttf') format('truetype'), url('helvetica-condensed.svg#HelveticaCondensedMedium') format('svg');
+}
+@font-face {
+ font-family: 'droid_serifregular';
+ src: url('droidserif-regular-webfont.eot');
+ src: url('droidserif-regular-webfont.eot?#iefix') format('embedded-opentype'), url('droidserif-regular-webfont.woff') format('woff'), url('droidserif-regular-webfont.ttf') format('truetype'), url('droidserif-regular-webfont.svg#droid_serifregular') format('svg');
+ font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: 'oswaldbook';
+ src: url('oswald-regular-webfont.eot');
+ src: url('oswald-regular-webfont.eot?#iefix') format('embedded-opentype'), url('oswald-regular-webfont.woff') format('woff'), url('oswald-regular-webfont.ttf') format('truetype'), url('oswald-regular-webfont.svg#oswaldbook') format('svg');
+ font-weight: normal;
+ font-style: normal;
+}
+label.error {
+	color: red;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.4;
+	margin-top: 0.5em;
+	width: 100%;
+	float: none;
+}
+ @media screen and (orientation: portrait) {
+label.error {
+margin-left: 0;
+display: block;
+}
+}
+ @media screen and (orientation: landscape) {
+label.error {
+display: inline-block;
+margin-left: 22%;
+}
+}
+em {
+	color: red;
+	font-weight: bold;
+	padding-right: .25em;
+}
+.product-name-q {
+	float:left;
+	width:50%;
+}
+.product-name-price {
+	float:left;
+	width:50%;
+}
+.activeCart {
+	display: block !important;
+}
+h1.main-heading {
+	font-family: 'HelveticaCondensedMedium';
+	color: #F17A28;
+	font-size: 22px;
+	text-transform:uppercase
+}
+.h4 {
+	background:#ed1d24;
+	font-size:14px;
+	font-weight:normal;
+	text-shadow:none;
+	color:#fff;
+	padding:8px 0 8px 15px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.h4 span {
+	background:#F17A28;
+	font-size:12px !important;
+	color:#fff;
+	text-shadow:none;
+	font-weight:normal;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.table-1 {
+	background:#F17A28;
+	border-radius:10px;
+	color:#fff;
+	text-shadow:none;
+	width:50%;
+	float:right;
+	font-weight:normal;
+	font-size:12px;
+}
+.table-1 th {
+	border:none !important;
+	font-weight:normal !important;
+	text-align:center;
+}
+.table-1 td {
+	border:none !important;
+	font-weight:normal !important;
+}
+.table-1-a {
+	background:#016a41;
+	border-radius:10px;
+	color:#fff;
+	text-shadow:none;
+	font-weight:normal;
+	font-size:12px !important;
+}
+.table-1-a-b {
+	color:#fff;
+	text-shadow:none;
+	font-weight:normal;
+	font-size:12px !important;
+}
+.heading-top {
+	background: #ed1d24;
+	font-family: 'HelveticaCondensedMedium';
+	color: #fff;
+	font-size: 20px;
+	padding: 5px 0 5px 15px;
+	text-shadow:none;
+}
+.fit {
+	margin:0px !important;
+	padding:0px !important;
+}
+.heading-product-type {
+	font-size:12px !important;
+	font-weight:bold!important;
+}
+.heading-product-no-type {
+	font-size:12px !important;
+	font-weight:bold!important;
+	color:#ff0000 !important
+}
+.your-shopping-cart {
+	background:#ed1d24 !important;
+	color:#fff !important;
+	font-family: 'HelveticaCondensedMedium';
+	text-shadow:none;
+}
+.toppings-extras {
+	background:#F17A28 !important;
+	color:#000 !important;
+	font-family: 'HelveticaCondensedMedium';
+	text-shadow:none;
+	border-radius:10px;
+}
+.toppings-extras a {
+	background:#016a41 !important;
+	color:#fff !important;
+	font-family: 'HelveticaCondensedMedium';
+	text-shadow:none;
+	border:none !important;
+	border-radius:10px;
+}
+.toppings-extras-tr {
+	background:#none !important;
+	color:#000 !important;
+	font-family: 'HelveticaCondensedMedium';
+	text-shadow:none;
+	border-radius:0;
+	box-shadow:none !important;
+}
+.toppings-extras-tr a {
+	background:none !important;
+	color:#000 !important;
+	font-family: 'HelveticaCondensedMedium';
+	text-shadow:none;
+	border:none !important;
+	border-radius:0px;
+	box-shadow:none !important;
+}
+.ul-borer-none ul li {
+	-webkit-border-bottom-right-radius:none!important;
+	border-bottom-right-radius:none !important;
+	-webkit-border-bottom-left-radius:none !important;
+	border-bottom-left-radius:0!important;
+}
+.toppings-extras-info {
+	background:none !important;
+	font-size:16px !important;
+	font-family: 'HelveticaCondensedMedium';
+}
+.product-type {
+	font-size:12px!important;
+	font-weight:normal!important;
+}
+.collspace {
+	border-radius:18px !important;
+	margin-bottom:5px;
+!important;
+	margin-left:0px;
+	margin-right:0px;
+}
+.fs12 {
+	font-size:12px !important;
+}
+div.error {
+	color:red;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.4;
+}
+.width10 {
+	width:10% !important;
+}
+.width15 {
+	width:15% !important;
+}
+.width20 {
+	width:20% !important;
+}
+.width25 {
+	width:25% !important;
+}
+.width30 {
+	width:30% !important;
+}
+.width35 {
+	width:35% !important;
+}
+.width40 {
+	width:40% !important;
+}
+.width45 {
+	width:45% !important;
+}
+.width20 {
+	width:20% !important;
+}
+.width100 {
+	width:100% !important;
+}
+.width10 {
+	width:10% !important;
+}
+.bold {
+	font-weight:bold;
+}
+.cart_option_heading {
+	color:#FF0000;
+}
+.icon-chevron-down {
+	background-image: url("../img/glyphicons-halflings.png");
+	background-position:-313px -119px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 14px;
+	line-height: 14px;
+	margin-top: 1px;
+	vertical-align: text-top;
+	width: 14px;
+}
+.notnormaltoppings {
+	/*border-bottom: 1px solid #000;*/
+	font-family: 'Droid Sans', verdana;
+	font-weight: bold;
+	color: #000;
+	font-size: 16px;
+	padding-bottom: 0px;
+	margin-bottom: 1px;
+}

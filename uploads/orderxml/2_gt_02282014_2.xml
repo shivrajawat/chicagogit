@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023591</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>2339845261</online_identifier>
+    <ticket_type>D</ticket_type>
+    <ready_date>03/01/2014</ready_date>
+    <ready_time>11:05:00</ready_time>
+    <subtotal>5.95</subtotal>
+    <delivery_fee>2.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.36</sales_tax>
+    <total>8.31</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="48" type="Pizza" quantity="1" name="The Islander Pizza">
+      <size id="4" name="Individual (7)" amount="5.95"/>
+      <kitchen_msg message=""/>
+      <split id="48" name="The Islander Pizza"/>
+      <sauce id="645" name="Lite Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <modifier id="463" name="Bacon" amount="0.00"/>
+      <modifier id="458" name="Canadian Bacon" amount="0.00"/>
+      <modifier id="485" name="Red Onions" amount="0.00"/>
+      <modifier id="484" name="Green Onions" amount="0.00"/>
+      <modifier id="486" name="Pineapple" amount="0.00"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="8.31"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@gmail.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

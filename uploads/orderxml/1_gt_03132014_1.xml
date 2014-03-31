@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>3844398302</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>6.95</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.42</sales_tax>
+    <total>7.37</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="113" type="Pizza" quantity="1" name="Chicken Pesto">
+      <size id="6" name="Flatbread" amount="6.95"/>
+      <kitchen_msg message=""/>
+      <split id="113" name="Chicken Pesto"/>
+      <sauce id="71" name="Pesto" location=""/>
+      <topping id="537" name="Cut" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="7.37"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr/>
+    <city>JAIPUR</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@yahoo.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

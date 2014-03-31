@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>1558811266</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/21/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>28.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.71</sales_tax>
+    <total>30.16</total>
+    <notes>Sandeep Kumar Kuldeep,Shyam Mitra Mandal Nagar, Opp. Road No-5, VKI Area,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="3" name="Large (14)" amount="28.45"/>
+      <kitchen_msg message="test"/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <topping id="106" name="Franks Chicken" location=""/>
+      <sauce id="729" name="Traditional Homemade Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location=""/>
+      <topping id="73" name="Italian Sausage" location=""/>
+      <topping id="74" name="Pepperoni" location=""/>
+      <topping id="76" name="Canadian Bacon" location=""/>
+      <topping id="75" name="Salami" location=""/>
+      <topping id="96" name="Green Peppers" location=""/>
+      <topping id="85" name="Fresh Mushrooms" location=""/>
+      <topping id="95" name="Black Olives" location=""/>
+      <topping id="98" name="Onions" location=""/>
+      <topping id="76" name="Canadian Bacon" location=""/>
+      <topping id="77" name="Andouille Sausage" location=""/>
+      <topping id="79" name="Bacon" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="30.16"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

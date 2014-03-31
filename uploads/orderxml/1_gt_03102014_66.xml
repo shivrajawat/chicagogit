@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>2700384206</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/10/2014</ready_date>
+    <ready_time>11:01:00</ready_time>
+    <subtotal>35.90</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">2.15</sales_tax>
+    <total>38.05</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="2" name="Small (10)" amount="13.95"/>
+      <kitchen_msg message="test"/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location=""/>
+      <topping id="75" name="Salami" location=""/>
+      <topping id="73" name="Italian Sausage" location=""/>
+      <topping id="74" name="Pepperoni" location=""/>
+      <topping id="76" name="Canadian Bacon" location=""/>
+      <topping id="85" name="Mushroom" location=""/>
+      <topping id="95" name="Black Olive" location=""/>
+      <topping id="98" name="Onion" location=""/>
+      <topping id="96" name="Green Pepper" location=""/>
+    </ticket_item>
+    <ticket_item id="51" type="Pizza" quantity="1" name="Hawaiian Chicken Pizza">
+      <size id="2" name="Small (10)" amount="21.95"/>
+      <kitchen_msg message=""/>
+      <split id="51" name="Hawaiian Chicken Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location=""/>
+      <topping id="83" name="Mesquite Chicken" location=""/>
+      <topping id="86" name="Pineapple" location=""/>
+      <topping id="537" name="Cut" location=""/>
+      <topping id="99" name="Sun-Dried Tomatoes" location=""/>
+      <topping id="83" name="Mesquite Chicken" location=""/>
+      <topping id="79" name="Salami" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="38.05"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

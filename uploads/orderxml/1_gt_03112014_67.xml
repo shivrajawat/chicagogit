@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>1842443568</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/11/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>46.10</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>4.00</gratuity>
+    <sales_tax id="1">2.49</sales_tax>
+    <total>47.98</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="3" name="Large (14)" amount="23.05"/>
+      <kitchen_msg message="test order...."/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="95" name="Black Olive" location="Whole"/>
+      <topping id="98" name="Onion" location="Whole"/>
+      <topping id="96" name="Green Pepper" location="Whole"/>
+      <topping id="85" name="Mushroom" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="H1"/>
+      <topping id="73" name="Andouille Sausage" location="Whole"/>
+      <topping id="74" name="Lean Beef" location="H2"/>
+      <topping id="10000" name="No Cheese" location=""/>
+    </ticket_item>
+    <ticket_item id="49" type="Pizza" quantity="1" name="All Meat Pizza">
+      <size id="3" name="Large (14)" amount="23.05"/>
+      <kitchen_msg message=""/>
+      <split id="49" name="All Meat Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="537" name="Cut" location=""/>
+      <topping id="80" name="Ham" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="10000" name="No Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="47.98"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

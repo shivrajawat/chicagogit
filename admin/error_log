@@ -1,0 +1,437 @@
+[31-Jul-2013 08:19:40] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/country_master.php on line 109
+[31-Jul-2013 08:20:16] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/state_master.php on line 101
+[31-Jul-2013 08:34:41] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/country_master.php on line 108
+[31-Jul-2013 08:35:32] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/country_master.php on line 109
+[31-Jul-2013 08:37:36] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/country_master.php on line 109
+[31-Jul-2013 08:40:55] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/country_master.php on line 109
+[31-Jul-2013 08:41:11] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/country_master.php on line 109
+[31-Jul-2013 08:43:17] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/state_master.php on line 100
+[31-Jul-2013 08:43:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/country_master.php on line 109
+[31-Jul-2013 08:44:55] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/state_master.php on line 101
+[31-Jul-2013 08:46:25] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/state_master.php on line 101
+[31-Jul-2013 08:50:42] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/city_master.php on line 98
+[31-Jul-2013 08:50:58] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/city_master.php on line 44
+[31-Jul-2013 08:51:39] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/city_master.php on line 98
+[31-Jul-2013 08:51:51] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/state_master.php on line 101
+[31-Jul-2013 08:53:50] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/company_master.php on line 187
+[31-Jul-2013 09:07:42] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/company_master.php on line 187
+[31-Jul-2013 09:10:38] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 232
+[31-Jul-2013 09:19:58] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 232
+[31-Jul-2013 09:19:58] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/location_master.php on line 263
+[31-Jul-2013 09:19:58] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 287
+[31-Jul-2013 09:20:40] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 232
+[02-Aug-2013 10:25:48] PHP Notice:  Use of undefined constant _LTM_MANAGER - assumed '_LTM_MANAGER' in /home8/kulasite/public_html/demo/admin/mainmenu.php on line 36
+[02-Aug-2013 10:26:07] PHP Notice:  Use of undefined constant _LTM_MANAGER - assumed '_LTM_MANAGER' in /home8/kulasite/public_html/demo/admin/mainmenu.php on line 36
+[02-Aug-2013 10:26:07] PHP Notice:  Use of undefined constant _LMD_MANAGER - assumed '_LMD_MANAGER' in /home8/kulasite/public_html/demo/admin/location_master.php on line 788
+[02-Aug-2013 10:28:17] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:28:48] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:28:48] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:33:15] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:34:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:34:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:34:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:34:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:34:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:34:03] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:36:50] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:37:28] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:33] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:33] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:33] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:35] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:35] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:43] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:43] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:44] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:38:56] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:39:45] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:53:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:53:19] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:20] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:21] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:22] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:55:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:56:16] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:57:05] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:58:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:07] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 10:59:11] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 11:00:00] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[02-Aug-2013 11:01:09] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[03-Aug-2013 10:26:03] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/holiday_master.php on line 86
+[03-Aug-2013 10:28:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/location_master.php on line 417
+[03-Aug-2013 10:28:44] PHP Notice:  Use of undefined constant INSTALL_URL - assumed 'INSTALL_URL' in /home8/kulasite/public_html/demo/admin/delivery_area_master.php on line 117
+[03-Aug-2013 10:28:44] PHP Notice:  Use of undefined constant IMG_PATH - assumed 'IMG_PATH' in /home8/kulasite/public_html/demo/admin/delivery_area_master.php on line 117
+[05-Aug-2013 10:14:05] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/holiday_master.php on line 98
+[05-Aug-2013 22:28:19] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/holiday_master.php on line 98
+[06-Aug-2013 08:49:17] PHP Warning:  Invalid argument supplied for foreach() in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 91
+[06-Aug-2013 08:49:17] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 08:50:56] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[06-Aug-2013 08:54:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 08:55:54] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:08:47] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:09:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[06-Aug-2013 09:09:42] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:10:12] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:10:55] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:11:02] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[06-Aug-2013 09:11:29] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[06-Aug-2013 09:11:49] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:12:16] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:13:25] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[06-Aug-2013 09:17:58] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:18:23] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:38:50] PHP Parse error:  syntax error, unexpected $end in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 195
+[06-Aug-2013 09:40:08] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:40:34] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:40:46] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[06-Aug-2013 09:45:51] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[08-Aug-2013 10:35:44] PHP Fatal error:  Call to undefined method Core::doFormNew() in /home8/kulasite/public_html/demo/admin/delivery_area_master.php on line 152
+[08-Aug-2013 10:49:28] PHP Notice:  Undefined index:  latitude in /home8/kulasite/public_html/demo/admin/delivery_area_master.php on line 95
+[08-Aug-2013 10:49:28] PHP Notice:  Undefined index:  longitude in /home8/kulasite/public_html/demo/admin/delivery_area_master.php on line 96
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1203): User kulasite_food already has more than 'max_user_connections' active connections in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1203): User kulasite_food already has more than 'max_user_connections' active connections in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1203): User kulasite_food already has more than 'max_user_connections' active connections in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1203): User kulasite_food already has more than 'max_user_connections' active connections in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1203): User kulasite_food already has more than 'max_user_connections' active connections in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (42000/1203): User kulasite_food already has more than 'max_user_connections' active connections in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[10-Aug-2013 06:48:41] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[10-Aug-2013 08:49:15] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 191
+[10-Aug-2013 10:30:06] PHP Notice:  Use of undefined constant _LOC_NOLOCMAPPING - assumed '_LOC_NOLOCMAPPING' in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 156
+[10-Aug-2013 10:39:51] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/company_master.php on line 179
+[10-Aug-2013 10:49:10] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[10-Aug-2013 10:50:03] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 99
+[10-Aug-2013 11:39:11] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[12-Aug-2013 06:43:11] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[12-Aug-2013 06:43:11] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[12-Aug-2013 06:43:11] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[12-Aug-2013 06:45:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[12-Aug-2013 06:45:10] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[12-Aug-2013 06:45:10] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[12-Aug-2013 06:45:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/kulasite/public_html/demo/lib/class_db.php on line 87
+[12-Aug-2013 06:45:38] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 436
+[12-Aug-2013 06:45:38] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home8/kulasite/public_html/demo/lib/class_db.php on line 437
+[13-Aug-2013 01:47:28] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 01:48:01] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 01:48:18] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 02:16:40] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 02:41:09] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 02:42:41] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 02:43:46] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 02:44:36] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[13-Aug-2013 02:44:46] PHP Notice:  Use of undefined constant _LOC_UNI_LOCAMENU - assumed '_LOC_UNI_LOCAMENU' in /home8/kulasite/public_html/demo/lib/class_menu.php on line 97
+[13-Aug-2013 02:47:48] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/menu_location_mapping.php on line 102
+[15-Aug-2013 09:50:40] PHP Notice:  Use of undefined constant _CUSVIEW_ - assumed '_CUSVIEW_' in /home8/kulasite/public_html/demo/admin/location_master.php on line 832
+[15-Aug-2013 09:51:12] PHP Notice:  Use of undefined constant _CUSVIEW_ - assumed '_CUSVIEW_' in /home8/kulasite/public_html/demo/admin/location_master.php on line 832
+[15-Aug-2013 09:53:24] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:53:27] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:53:27] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:54:53] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:54:59] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:55:39] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:57:46] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[15-Aug-2013 09:58:19] PHP Fatal error:  Call to undefined method Content::getLocationDetails() in /home8/kulasite/public_html/demo/admin/ajax.php on line 864
+[16-Aug-2013 10:07:06] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[16-Aug-2013 10:07:06] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[16-Aug-2013 10:17:51] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[16-Aug-2013 10:17:51] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[16-Aug-2013 10:17:57] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[16-Aug-2013 10:17:57] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[17-Aug-2013 02:47:42 America/Toronto] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/company_master.php on line 179
+[19-Aug-2013 09:31:46 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:31:46 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:31:46 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:31:46 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:31:46 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:31:46 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:32:24 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:32:24 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:32:24 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:32:24 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:32:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:32:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:32:33 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:32:33 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:32:33 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:32:33 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:32:33 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:32:33 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:33:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:33:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:33:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:33:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:33:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:33:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:34:08 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:34:36 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:34:55 America/Toronto] PHP Notice:  Undefined index: display_order in /home8/kulasite/public_html/demo/admin/menu_category_master.php on line 204
+[19-Aug-2013 09:44:06 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:44:06 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:44:06 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:44:06 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:44:06 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:44:06 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:44:21 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:46:13 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:46:41 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:49:03 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:49:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:49:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:49:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:49:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:49:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:49:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:53:28 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:53:28 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:53:28 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:53:28 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:53:28 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:53:28 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:56:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:56:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:56:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:56:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:56:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:56:25 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:58:07 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:58:07 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 09:58:07 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:58:07 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 09:58:07 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:58:07 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 09:58:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:58:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:58:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:58:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:58:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:58:48 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:59:32 America/Toronto] PHP Notice:  Undefined variable: _post in /home8/kulasite/public_html/demo/admin/ajax.php on line 1217
+[19-Aug-2013 09:59:32 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:59:32 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 09:59:32 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:59:32 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 09:59:32 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1220
+[19-Aug-2013 09:59:32 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1220
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1251
+[19-Aug-2013 09:59:50 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1251
+[19-Aug-2013 10:00:59 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 10:00:59 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1218
+[19-Aug-2013 10:00:59 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 10:00:59 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1219
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1247
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1248
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1249
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 10:01:47 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1250
+[19-Aug-2013 10:02:58 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 10:02:58 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 10:02:58 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 10:02:58 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 10:02:58 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 10:02:58 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 10:03:18 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 10:03:18 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1232
+[19-Aug-2013 10:03:18 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 10:03:18 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1233
+[19-Aug-2013 10:03:18 America/Toronto] PHP Warning:  mysql_real_escape_string(): Access denied for user 'kulasite'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 10:03:18 America/Toronto] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home8/kulasite/public_html/demo/admin/ajax.php on line 1234
+[19-Aug-2013 10:10:34 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:11:00 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:11:24 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:11:48 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:14:09 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:16:46 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:16:47 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:17:05 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:17:14 America/Toronto] PHP Notice:  Undefined index: breakfast in /home8/kulasite/public_html/demo/admin/menu_item_master.php on line 180
+[19-Aug-2013 10:17:14 America/Toronto] PHP Notice:  Undefined index: lunch in /home8/kulasite/public_html/demo/admin/menu_item_master.php on line 182
+[19-Aug-2013 10:17:14 America/Toronto] PHP Notice:  Undefined index: dinner in /home8/kulasite/public_html/demo/admin/menu_item_master.php on line 184
+[19-Aug-2013 10:17:14 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 10:19:40 America/Toronto] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[19-Aug-2013 10:19:40 America/Toronto] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[19-Aug-2013 10:19:46 America/Toronto] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[19-Aug-2013 10:19:46 America/Toronto] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[19-Aug-2013 10:19:54 America/Toronto] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[19-Aug-2013 10:19:54 America/Toronto] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[19-Aug-2013 10:19:54 America/Toronto] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[19-Aug-2013 10:19:54 America/Toronto] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[19-Aug-2013 23:51:51 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 23:52:38 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[19-Aug-2013 23:56:04 America/Toronto] PHP Notice:  Undefined index: location_id in /home8/kulasite/public_html/demo/admin/website_install.php on line 66
+[20-Aug-2013 00:39:18 America/Toronto] PHP Notice:  Undefined variable: sql in /home8/kulasite/public_html/demo/lib/class_content.php on line 2993
+[20-Aug-2013 00:39:18 America/Toronto] PHP Notice:  Undefined variable: row in /home8/kulasite/public_html/demo/admin/customer_master.php on line 357
+[21-Aug-2013 18:34:03 America/Toronto] PHP Notice:  Undefined index: breakfast in /home8/kulasite/public_html/demo/admin/menu_item_master.php on line 180
+[21-Aug-2013 18:34:04 America/Toronto] PHP Notice:  Undefined index: lunch in /home8/kulasite/public_html/demo/admin/menu_item_master.php on line 182
+[21-Aug-2013 18:34:04 America/Toronto] PHP Notice:  Undefined index: dinner in /home8/kulasite/public_html/demo/admin/menu_item_master.php on line 184
+[22-Aug-2013 08:23:16 America/Toronto] PHP Parse error:  syntax error, unexpected $end in /home8/kulasite/public_html/demo/admin/coupon_master.php on line 174
+[22-Aug-2013 08:27:04 America/Toronto] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/lib/functions.php on line 656
+[22-Aug-2013 08:27:49 America/Toronto] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/lib/functions.php on line 656
+[22-Aug-2013 08:28:00 America/Toronto] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/lib/functions.php on line 656
+[22-Aug-2013 08:28:54 America/Toronto] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home8/kulasite/public_html/demo/lib/functions.php on line 656
+[22-Aug-2013 08:30:05 America/Toronto] PHP Warning:  fopen(csv/Export_User_22_Aug_2013_08_30am.xls): failed to open stream: No such file or directory in /home8/kulasite/public_html/demo/lib/functions.php on line 666
+[22-Aug-2013 08:30:05 America/Toronto] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 675
+[22-Aug-2013 08:30:05 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 685
+[22-Aug-2013 08:30:16 America/Toronto] PHP Warning:  fopen(csv/Export_User_22_Aug_2013_08_30am.xls): failed to open stream: No such file or directory in /home8/kulasite/public_html/demo/lib/functions.php on line 666
+[22-Aug-2013 08:30:16 America/Toronto] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 675
+[22-Aug-2013 08:30:16 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 685
+[22-Aug-2013 08:30:39 America/Toronto] PHP Warning:  fopen(csv/Export_User_22_Aug_2013_08_30am.doc): failed to open stream: No such file or directory in /home8/kulasite/public_html/demo/lib/functions.php on line 666
+[22-Aug-2013 08:30:39 America/Toronto] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 675
+[22-Aug-2013 08:30:39 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 685
+[22-Aug-2013 08:32:08 America/Toronto] PHP Warning:  fopen(csv/Export_User_22_Aug_2013_08_32am.xls): failed to open stream: No such file or directory in /home8/kulasite/public_html/demo/lib/functions.php on line 666
+[22-Aug-2013 08:32:08 America/Toronto] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 675
+[22-Aug-2013 08:32:08 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 685
+[22-Aug-2013 08:32:39 America/Toronto] PHP Warning:  fopen(csv/Export_User_22_Aug_2013_08_32am.xls): failed to open stream: No such file or directory in /home8/kulasite/public_html/demo/lib/functions.php on line 666
+[22-Aug-2013 08:32:39 America/Toronto] PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 675
+[22-Aug-2013 08:32:39 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home8/kulasite/public_html/demo/lib/functions.php on line 685

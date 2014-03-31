@@ -1,0 +1,6 @@
+id,coupon_id,title,no_of_coupon,type_of_discount,discount,no_of_use_allowed,used_no,active,start_date,end_date,description
+1,5h251mokab1m,30%,5,percent,30,10,0,1,"2013-08-01 00:00:00","2013-09-30 00:00:00",30%off
+2,tnqenzgu6wde,30%,5,percent,30,10,0,1,"2013-08-01 00:00:00","2013-09-30 00:00:00",30%off
+3,3cnhb8wyq1nd,30%,5,percent,30,10,0,1,"2013-08-01 00:00:00","2013-09-30 00:00:00",30%off
+4,a5qyebkhp2x6,30%,5,percent,30,10,0,1,"2013-08-01 00:00:00","2013-09-30 00:00:00",30%off
+5,7y138g5wfwm1,30%,5,percent,30,10,0,1,"2013-08-01 00:00:00","2013-09-30 00:00:00",30%off

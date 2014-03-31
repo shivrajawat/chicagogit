@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>5263237171</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/12/2014</ready_date>
+    <ready_time>01:15:00</ready_time>
+    <subtotal>20.95</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.26</sales_tax>
+    <total>22.21</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="121" type="Regular" quantity="1" name="Lasagna Pie">
+      <size id="1" name="12inch" amount="15.95"/>
+      <kitchen_msg message="test"/>
+      <modifier id="187" name="Artichoke Hearts" amount="0.50"/>
+      <modifier id="192" name="Garlic" amount="0.50"/>
+      <modifier id="188" name="Spinach" amount="0.50"/>
+      <modifier id="189" name="Onion" amount="0.50"/>
+      <modifier id="190" name="Mushroom" amount="0.50"/>
+      <modifier id="191" name="Olives" amount="0.50"/>
+      <modifier id="183" name="Sausage" amount="0.50"/>
+      <modifier id="184" name="Lean Beef" amount="0.50"/>
+      <modifier id="185" name="Chicken" amount="0.50"/>
+      <modifier id="186" name="Pepperoni" amount="0.50"/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="22.21"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

@@ -1,0 +1,46 @@
+# Options:
+# -MultiViews: Turns off multiviews so it doesn't interfer with our rewrite rules
+# -Indexes: Stop directory listings
+# +FollowSymlinks: Let out rewrite rules work
+
+Options -MultiViews -Indexes +FollowSymlinks
+
+<IfModule mod_security.c>
+	# Turn off mod_security filtering.
+	# SecFilterEngine Off
+
+	# The below probably isn't needed, but better safe than sorry.
+	SecFilterScanPOST Off
+</IfModule>
+
+ErrorDocument 404 /kulacart/chicago/404.php
+
+<IfModule mod_php5.c>
+	php_value register_globals 0
+	php_value magic_quotes_gpc 0
+	php_value session.auto_start 0
+	php_value safe_mode 0
+</IfModule>
+
+<IfModule sapi_apache2.c>
+	php_value register_globals 0
+	php_value magic_quotes_gpc 0
+	php_value session.auto_start 0
+	php_value safe_mode 0
+</IfModule>
+
+<IfModule mod_rewrite.c>
+
+	RewriteEngine On
+        RewriteBase /kulacart/chicago/
+
+RewriteRule ^([*\.]+)$ $1.php?pagename=$1 [qsappend]
+RewriteRule ^(([A-Za-z0-9-]+)+)$ $1.php?pagename=$1 [qsappend]
+RewriteRule ^thankyou/(\d+)$ thanks.php?vis=$1 [NC,QSA,L]
+RewriteRule ^thankyou/([0-9-]+)/([0-9-]+)$ thanks.php?vis=$1 [NC,QSA,L]
+RewriteRule ^order-details/(\d+)$ order_details.php?orderid=$1 [NC,QSA,L]
+
+</IfModule>
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE application/x-javascript text/css text/html text/xml
+</IfModule>

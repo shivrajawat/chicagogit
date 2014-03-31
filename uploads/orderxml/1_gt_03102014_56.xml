@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>6325242337</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/10/2014</ready_date>
+    <ready_time>12:30:00</ready_time>
+    <subtotal>8.25</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>2.00</gratuity>
+    <sales_tax id="1">0.50</sales_tax>
+    <total>9.92</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="1" type="Regular" quantity="1" name="Italian Club">
+      <size id="1" name="" amount="8.25"/>
+      <kitchen_msg message=""/>
+      <modifier id="40" name="Wheat Roll" amount="0.00"/>
+      <topping id="89" name="Tomato" location=""/>
+      <modifier id="479" name="Mustard" amount="0.00"/>
+      <modifier id="733" name="Mayonnaise" amount="0.00"/>
+      <modifier id="216" name="Lettuce" amount="0.00"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="9.92"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@gmail.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

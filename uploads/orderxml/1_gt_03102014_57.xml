@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>3605361931</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/10/2014</ready_date>
+    <ready_time>12:42:00</ready_time>
+    <subtotal>50.05</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <total>53.05</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="49" type="Pizza" quantity="1" name="All Meat Pizza">
+      <size id="3" name="Large (14)" amount="39.25"/>
+      <kitchen_msg message=""/>
+      <split id="49" name="All Meat Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="537" name="Cut" location=""/>
+      <topping id="90" name="Fresh Garlic" location="Whole"/>
+      <topping id="798" name="Green Onions" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+      <topping id="89" name="Jalapenos" location="Whole"/>
+      <topping id="85" name="Red Onions" location="Whole"/>
+      <topping id="73" name="Andouille Sausage" location="Whole"/>
+      <topping id="74" name="Lean Beef" location="Whole"/>
+      <topping id="75" name="Bacon" location="Whole"/>
+      <topping id="80" name="Ham" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="53.05"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@gmail.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

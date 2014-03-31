@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023654</site_id>
+  <password>USID0286</password>
+  <ticket_request>
+    <online_identifier>2400584335</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>37.40</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">2.24</sales_tax>
+    <total>39.64</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="30" type="Regular" quantity="1" name="Chicken Bacon Ranch">
+      <size id="3" name="Large" amount="8.95"/>
+      <kitchen_msg message=""/>
+    </ticket_item>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="" name="" amount="0.00"/>
+      <kitchen_msg message=""/>
+      <split id="104" name="Create Your Own Pizza"/>
+    </ticket_item>
+    <ticket_item id="123" type="Regular" quantity="1" name="Lasagna Pie (12 Inch)">
+      <size id="1" name="" amount="15.95"/>
+      <kitchen_msg message=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="39.64"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

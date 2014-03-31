@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023591</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>1495749114</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>02/28/2014</ready_date>
+    <ready_time>08:50:00</ready_time>
+    <subtotal>5.95</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.36</sales_tax>
+    <total>6.31</total>
+    <notes>Shivraj Singh,,9830020000,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="62" type="Pizza" quantity="1" name="Chicken Fajita">
+      <size id="4" name="Individual (7)" amount="5.95"/>
+      <kitchen_msg message=""/>
+      <split id="62" name="Chicken Fajita"/>
+      <crust id="101" name="Thin Crust"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+      <topping id="89" name="Tomato" location="Whole"/>
+      <topping id="95" name="Black Olive" location="Whole"/>
+      <topping id="98" name="Onion" location="Whole"/>
+      <topping id="96" name="Green Pepper" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="6.31"/>
+  <customer>
+    <first_name>Shivraj</first_name>
+    <last_name>Singh</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RJ</state>
+    <postal>302011</postal>
+    <phone>9830020000</phone>
+    <email>shivrajawat@yahoo.com</email>
+    <this_contact>9830020000</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

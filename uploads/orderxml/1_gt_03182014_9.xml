@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>5127163192</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/18/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>7.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.45</sales_tax>
+    <total>7.90</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="114" type="Pizza" quantity="1" name="Artichoke Delight">
+      <size id="6" name="Flatbread" amount="7.45"/>
+      <kitchen_msg message=""/>
+      <split id="114" name="Artichoke Delight"/>
+      <sauce id="67" name="Marinara Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="538" name="Uncut" location=""/>
+      <topping id="94" name="Fresh Garlic" location="Whole"/>
+      <topping id="89" name="Tomatoes" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="77" name="Andouille Sausage" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="7.90"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

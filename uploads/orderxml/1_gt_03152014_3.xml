@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>1139624198</online_identifier>
+    <ticket_type>D</ticket_type>
+    <ready_date>03/17/2014</ready_date>
+    <ready_time>12:35:00</ready_time>
+    <subtotal>49.22</subtotal>
+    <delivery_fee>2.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>2.00</gratuity>
+    <sales_tax id="1">2.95</sales_tax>
+    <total>56.17</total>
+    <notes>Richard Gibbons,4009 Normandie Drive, Boise, ID, United States,2086959492,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="3" name="Large (14)" amount="48.32"/>
+      <kitchen_msg message="test"/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <calculate id="113" name="Chicken Pesto" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="H2"/>
+      <topping id="84" name="Fresh Basil" location="H1"/>
+      <topping id="85" name="Fresh Mushrooms" location="H2"/>
+      <modifier id="379" name="Yellow Onions" amount="0.90"/>
+      <topping id="108" name="Green Onions" location="H2"/>
+      <topping id="88" name="Spinach" location="H1"/>
+      <topping id="90" name="Sun Dried Tomatos" location="H2"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="77" name="Andouille Sausage" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="56.17"/>
+  <customer>
+    <first_name>Richard</first_name>
+    <last_name>Gibbons</last_name>
+    <addr>Boise, ID, United States</addr>
+    <city>Boise</city>
+    <state>Idaho</state>
+    <postal>83705</postal>
+    <phone>2086959492</phone>
+    <email>richardg227@gmail.com</email>
+    <this_contact>2086959492</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

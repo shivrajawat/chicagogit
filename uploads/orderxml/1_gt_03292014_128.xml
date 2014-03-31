@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>3366090243</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/29/2014</ready_date>
+    <ready_time>11:15:00</ready_time>
+    <subtotal>33.20</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.99</sales_tax>
+    <total>35.19</total>
+    <notes>Sandeep Kumar Kuldeep,Shyam Mitra Mandal Nagar, Opp. Road No-5, VKI Area,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="3" name="Large (14)" amount="32.30"/>
+      <kitchen_msg message=""/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <topping id="82" name="Artichoke Hearts*" location="Whole"/>
+      <topping id="84" name="Fresh Basil" location="H1"/>
+      <modifier id="379" name="Yellow Onions" amount="0.90"/>
+      <topping id="108" name="Green Onions" location="Whole"/>
+      <topping id="99" name="Red Onions" location="Whole"/>
+      <topping id="86" name="Pineapple" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="77" name="Andouille Sausage" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <sauce id="70" name="Olive Oil" location=""/>
+      <sauce id="109" name="Thai Chili" location=""/>
+      <crust id="101" name="Thin Crust"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="35.19"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

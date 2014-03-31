@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>5620674134</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>38.10</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">2.29</sales_tax>
+    <total>40.39</total>
+    <notes>Sara Gillani Sara,,9878675678,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="131" type="Regular" quantity="1" name="C.C. Flyers- SPICY">
+      <size id="1" name="" amount="0.00"/>
+      <kitchen_msg message=""/>
+      <modifier id="550" name="Sweet Spicy" amount="0.00"/>
+    </ticket_item>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="3" name="Large (14)" amount="22.15"/>
+      <kitchen_msg message=""/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="96" name="Green Pepper" location="Whole"/>
+      <topping id="85" name="Mushroom" location="Whole"/>
+      <topping id="95" name="Black Olive" location="Whole"/>
+      <topping id="98" name="Onion" location="Whole"/>
+      <topping id="99" name="Sun-Dried Tomatoes" location="H1"/>
+      <topping id="85" name="Red Onions" location="H1"/>
+      <topping id="97" name="Spinach" location="H2"/>
+    </ticket_item>
+    <ticket_item id="121" type="Regular" quantity="1" name="Lasagna Pie">
+      <size id="1" name="10inch" amount="16.65"/>
+      <kitchen_msg message=""/>
+      <modifier id="187" name="Artichoke Hearts" amount="0.50"/>
+      <modifier id="192" name="Garlic" amount="0.50"/>
+      <modifier id="185" name="Chicken" amount="0.50"/>
+      <modifier id="186" name="Pepperoni" amount="0.50"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="40.39"/>
+  <customer>
+    <first_name>Sara Gillani</first_name>
+    <last_name>Sara</last_name>
+    <addr>Eagle, ID, United States</addr>
+    <city>Pakistab</city>
+    <state>Pehswar</state>
+    <postal>12345</postal>
+    <phone>9878675678</phone>
+    <email>saragillanisara@gmail.com</email>
+    <this_contact>9878675678</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

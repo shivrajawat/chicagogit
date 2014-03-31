@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023591</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>4164074591</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>02/28/2014</ready_date>
+    <ready_time>09:08:00</ready_time>
+    <subtotal>11.75</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.71</sales_tax>
+    <total>12.46</total>
+    <notes>Shivraj Singh,,9830020000,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="351" type="Regular" quantity="1" name="Lasagna Pie (7 inch)">
+      <size id="" name="" amount="8.25"/>
+      <kitchen_msg message=""/>
+      <modifier id="725" name="Bacon" amount="0.50"/>
+      <modifier id="727" name="Canadian Bacon" amount="0.50"/>
+      <modifier id="187" name="Artichoke Hearts" amount="0.50"/>
+      <modifier id="633" name="Broccoli" amount="0.50"/>
+      <modifier id="726" name="Fresh Tomato" amount="0.50"/>
+      <modifier id="192" name="Garlic" amount="0.50"/>
+      <modifier id="724" name="Green Pepper" amount="0.50"/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="12.46"/>
+  <customer>
+    <first_name>Shivraj</first_name>
+    <last_name>Singh</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RJ</state>
+    <postal>302011</postal>
+    <phone>9830020000</phone>
+    <email>shivrajawat@yahoo.com</email>
+    <this_contact>9830020000</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

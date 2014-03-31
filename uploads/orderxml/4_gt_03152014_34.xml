@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023637</site_id>
+  <password>USID0276</password>
+  <ticket_request>
+    <online_identifier>2399034642</online_identifier>
+    <ticket_type>P</ticket_type>
+    <subtotal>15.50</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.93</sales_tax>
+    <total>16.43</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="14" name="Gluten Free(10)" amount="15.50"/>
+      <kitchen_msg message=""/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <topping id="77" name="Andouille Sausage" location=""/>
+      <sauce id="729" name="Traditional Homemade Sauce" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="108" name="Green Onions" location="Whole"/>
+      <topping id="87" name="Cashews" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="100" name="Online Credit Card" amount="16.43"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

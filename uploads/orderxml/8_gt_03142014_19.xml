@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023638</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>3129912511</online_identifier>
+    <ticket_type>D</ticket_type>
+    <ready_date>03/16/2014</ready_date>
+    <ready_time>12:35:00</ready_time>
+    <subtotal>42.20</subtotal>
+    <delivery_fee>2.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>3.00</gratuity>
+    <sales_tax id="1">2.28</sales_tax>
+    <total>45.26</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="3" name="Large (14)" amount="40.40"/>
+      <kitchen_msg message="test"/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <topping id="77" name="Andouille Sausage" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+      <topping id="84" name="Fresh Basil" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="95" name="Black Olives" location="Whole"/>
+      <topping id="96" name="Green Peppers" location="Whole"/>
+      <topping id="97" name="Pepperoncinis" location="Whole"/>
+      <modifier id="379" name="Yellow Onions" amount="1.80"/>
+      <topping id="108" name="Green Onions" location="Whole"/>
+      <topping id="86" name="Pineapple" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="H2"/>
+      <topping id="74" name="Pepperoni" location="H1"/>
+      <topping id="78" name="Lean Beef" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+      <topping id="80" name="Ham" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="45.26"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>3090811282</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/10/2014</ready_date>
+    <ready_time>01:04:00</ready_time>
+    <subtotal>19.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.17</sales_tax>
+    <total>20.62</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="47" type="Pizza" quantity="1" name="Chicago Combo Pizza">
+      <size id="3" name="Large (14)" amount="19.45"/>
+      <kitchen_msg message=""/>
+      <split id="47" name="Chicago Combo Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="75" name="Salami" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="85" name="Mushroom" location="Whole"/>
+      <topping id="95" name="Black Olive" location="Whole"/>
+      <topping id="98" name="Onion" location="Whole"/>
+      <topping id="96" name="Green Pepper" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="20.62"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@gmail.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

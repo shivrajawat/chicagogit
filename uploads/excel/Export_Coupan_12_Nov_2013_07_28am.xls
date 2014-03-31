@@ -1,0 +1,11 @@
+id,coupon_id,title,no_of_coupon,type_of_discount,discount,no_of_use_allowed,used_no,active,start_date,end_date,description
+1,p3m903h6v31n,"30 % off",5,percent,30,10,0,1,"2013-08-22 00:00:00","2013-09-30 00:00:00","30 %  off"
+2,57por45wpujf,"30 % off",5,percent,30,10,0,1,"2013-08-22 00:00:00","2013-12-30 00:00:00","30 %  off"
+3,onth9mrc58y9,"30 % off",5,percent,30,10,0,1,"2013-08-22 00:00:00","2013-09-30 00:00:00","30 %  off"
+4,s4gw25das503,"30 % off",5,percent,30,10,0,1,"2013-08-22 00:00:00","2013-09-30 00:00:00","30 %  off"
+5,vyxs2bqb61n2,"30 % off",5,percent,30,10,0,1,"2013-08-22 00:00:00","2013-09-30 00:00:00","30 %  off"
+6,006ot2hnfrcg,"30 %  discount",5,percent,30,5,0,1,"2013-11-08 00:00:00","2013-11-23 00:00:00",test
+7,aqfe5vxbl612,"30 %  discount",5,percent,30,5,0,1,"2013-11-08 00:00:00","2013-11-23 00:00:00",test
+8,orqw9itdhjp0,"30 %  discount",5,percent,30,5,0,1,"2013-11-08 00:00:00","2013-11-23 00:00:00",test
+9,86arl19mf0zo,"30 %  discount",5,percent,30,5,0,1,"2013-11-08 00:00:00","2013-11-23 00:00:00",test
+10,orcyoyo42bbz,"30 %  discount",5,percent,30,5,0,1,"2013-11-08 00:00:00","2013-11-23 00:00:00",test

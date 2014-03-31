@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>1355978733</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/12/2014</ready_date>
+    <ready_time>01:15:00</ready_time>
+    <subtotal>53.30</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">3.20</sales_tax>
+    <total>56.50</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="50" type="Pizza" quantity="1" name="Five Star Pizza">
+      <size id="3" name="Large (14)" amount="19.45"/>
+      <kitchen_msg message=""/>
+      <split id="50" name="Five Star Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="74" name="Pepperoni" location="Whole"/>
+      <topping id="73" name="Italian Sausage" location="Whole"/>
+      <topping id="85" name="Mushroom" location="Whole"/>
+      <topping id="98" name="Onion" location="Whole"/>
+      <topping id="96" name="Green Pepper" location="Whole"/>
+      <topping id="537" name="Cut" location=""/>
+    </ticket_item>
+    <ticket_item id="48" type="Pizza" quantity="1" name="The Islander Pizza">
+      <size id="3" name="Large (14)" amount="33.85"/>
+      <kitchen_msg message="tetst"/>
+      <split id="48" name="The Islander Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <sauce id="109" name="Thai Chili" location=""/>
+      <modifier id="458" name="Canadian Bacon" amount="0.00"/>
+      <modifier id="463" name="Bacon" amount="0.00"/>
+      <modifier id="485" name="Red Onions" amount="0.00"/>
+      <modifier id="484" name="Green Onions" amount="0.00"/>
+      <modifier id="486" name="Pineapple" amount="0.00"/>
+      <topping id="88" name="Broccoli" location="Whole"/>
+      <topping id="96" name="Yellow Onions" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+      <topping id="80" name="Ham" location="Whole"/>
+      <topping id="77" name="Pepperoni" location="Whole"/>
+      <topping id="79" name="Salami" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="56.50"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>2667644359</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/19/2014</ready_date>
+    <ready_time>01:15:00</ready_time>
+    <subtotal>7.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>2.00</gratuity>
+    <sales_tax id="1">0.45</sales_tax>
+    <total>9.90</total>
+    <notes>Surender Singh Shekhawat,qwqe q ewqe qw q eqwe qeqwe qw,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="115" type="Pizza" quantity="1" name="Garlic Gourmet">
+      <size id="6" name="Flatbread" amount="7.45"/>
+      <kitchen_msg message=""/>
+      <split id="115" name="Garlic Gourmet"/>
+      <sauce id="68" name="Roasted Garlic" location=""/>
+      <topping id="538" name="Uncut" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="88" name="Spinach" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="90" name="Sun-Dried Tomatoes" location="Whole"/>
+      <topping id="76" name="Canadian Bacon" location="Whole"/>
+      <topping id="77" name="Andouille Sausage" location="Whole"/>
+      <topping id="79" name="Bacon" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="9.90"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>JAIPUR</city>
+    <state>RAJASTHAN</state>
+    <postal>12345</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@yahoo.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

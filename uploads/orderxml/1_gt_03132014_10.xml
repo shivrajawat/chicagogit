@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>4091273721</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>10:45:00</ready_time>
+    <subtotal>17.19</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>12.00</gratuity>
+    <sales_tax id="1">1.03</sales_tax>
+    <total>30.22</total>
+    <notes>Sara Gillani Sara,,8955407926,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="531" type="Regular" quantity="1" name="Famous Amos Cookies">
+      <size id="1" name="" amount="0.94"/>
+      <kitchen_msg message=""/>
+    </ticket_item>
+    <ticket_item id="1" type="Regular" quantity="1" name="Italian Club">
+      <size id="1" name="" amount="8.25"/>
+      <kitchen_msg message=""/>
+      <modifier id="39" name="French Roll" amount="0.00"/>
+      <modifier id="216" name="Lettuce" amount="0.00"/>
+      <topping id="89" name="Tomato" location=""/>
+      <modifier id="479" name="Mustard" amount="0.00"/>
+      <modifier id="733" name="Mayonnaise" amount="0.00"/>
+      <modifier id="10000" name="Pickle" amount="0.00"/>
+      <modifier id="10000" name="Chips" amount="0.00"/>
+      <modifier id="10000" name="Cookies" amount="0.00"/>
+      <topping id="798" name="Jalapeos" location=""/>
+      <modifier id="191" name="Olives" amount="0.50"/>
+      <topping id="99" name="Red Onions" location=""/>
+      <topping id="96" name="Green Peppers" location=""/>
+      <topping id="97" name="Pepperoncinis" location=""/>
+    </ticket_item>
+    <ticket_item id="802" type="Regular" quantity="1" name="SPICY Chicken Dippers">
+      <size id="1" name="" amount="5.50"/>
+      <kitchen_msg message=""/>
+      <modifier id="546" name="Ranch" amount="0.00"/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="30.22"/>
+  <customer>
+    <first_name>Sara Gillani</first_name>
+    <last_name>Sara</last_name>
+    <addr/>
+    <city>Peshawar</city>
+    <state>Pakistan</state>
+    <postal>12345</postal>
+    <phone>8955407926</phone>
+    <email>saragillanisara@gmail.com</email>
+    <this_contact>8955407926</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

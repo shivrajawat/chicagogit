@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023638</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>1233423091</online_identifier>
+    <ticket_type>D</ticket_type>
+    <ready_date>03/16/2014</ready_date>
+    <ready_time>12:35:00</ready_time>
+    <subtotal>14.95</subtotal>
+    <delivery_fee>2.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>1.00</gratuity>
+    <sales_tax id="1">0.81</sales_tax>
+    <total>17.26</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="113" type="Pizza" quantity="1" name="Chicken Pesto">
+      <size id="6" name="Flatbread" amount="5.95"/>
+      <kitchen_msg message=""/>
+      <split id="113" name="Chicken Pesto"/>
+      <sauce id="71" name="Pesto" location=""/>
+      <topping id="538" name="Uncut" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+    </ticket_item>
+    <ticket_item id="104" type="Pizza" quantity="1" name="Create Your Own Pizza">
+      <size id="2" name="Small (10)" amount="9.00"/>
+      <kitchen_msg message=""/>
+      <split id="104" name="Create Your Own Pizza"/>
+      <topping id="77" name="Andouille Sausage" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="100" name="Online Credit Card" amount="17.26"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr>Nampa, ID, United States</addr>
+    <city>JAIPUR</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@yahoo.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

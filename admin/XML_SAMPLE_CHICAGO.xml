@@ -1,0 +1,3363 @@
+<?xml version="1.0" ?>
+<menu_information version="1.0">
+<site_id>1023656</site_id>
+<category_info>
+<menu_category id="2" name="Pasta" />
+<menu_category id="3" name="Hot Sandwich" />
+<menu_category id="4" name="Starters" />
+<menu_category id="5" name="Soup /Salad" />
+<menu_category id="6" name="Dessert" />
+<menu_category id="7" name="Pizza/ Flatbread" />
+<menu_category id="9" name="Lunch Special" />
+<menu_category id="10" name="Lasagna Pie" />
+<menu_category id="13" name="Drinks" />
+<menu_category id="14" name="Beer/Wine" />
+<menu_category id="15" name="Misc" />
+<menu_category id="16" name="kids menu" />
+</category_info>
+<modifier_info>
+<modifier id="363" name="Italian Sausage" amount="0.50" />
+<modifier id="364" name="Pepperoni" amount="0.50" />
+<modifier id="365" name="Salami" amount="0.50" />
+<modifier id="366" name="Canadian Bacon" amount="0.50" />
+<modifier id="367" name="Andoulle Sausage" amount="0.50" />
+<modifier id="368" name="Lean Beef" amount="0.50" />
+<modifier id="369" name="Bacon" amount="0.50" />
+<modifier id="370" name="Ham" amount="0.50" />
+<modifier id="371" name="Mesquite Chicken" amount="1.00" />
+<modifier id="372" name="Shrimp" amount="0.50" />
+<modifier id="373" name="Artichoke Hearts" amount="1.00" />
+<modifier id="374" name="Fresh Basil" amount="0.50" />
+<modifier id="375" name="Mushrooms" amount="0.50" />
+<modifier id="376" name="Black Olives" amount="0.50" />
+<modifier id="377" name="Green Peppers" amount="0.50" />
+<modifier id="378" name="Pepperoncinis" amount="0.50" />
+<modifier id="379" name="Yellow Onions" amount="0.50" />
+<modifier id="380" name="Green Onions" amount="0.50" />
+<modifier id="381" name="Red Onions" amount="0.50" />
+<modifier id="382" name="Pineapple" amount="0.50" />
+<modifier id="383" name="Spinach" amount="0.50" />
+<modifier id="384" name="Fresh Tomates" amount="0.50" />
+<modifier id="385" name="SDried Tomatoes" amount="0.50" />
+<modifier id="386" name="Broccoli" amount="0.50" />
+<modifier id="387" name="Fresh Garlic" amount="0.50" />
+<modifier id="388" name="Jalapenos" amount="0.50" />
+<modifier id="389" name="Anchovies" amount="0.50" />
+<modifier id="390" name="Cashews" amount="0.50" />
+<modifier id="459" name="THIN CRUST" amount="0.00" />
+<modifier id="452" name="Sausage" amount="0.50" />
+<modifier id="554" name="Cheese" amount="0.00" />
+<modifier id="434" name="Soup" amount="0.00" />
+<modifier id="435" name="Salad" amount="0.00" />
+<modifier id="391" name="Chicago Combo" amount="0.00" />
+<modifier id="392" name="Islander" amount="0.00" />
+<modifier id="393" name="All Meat" amount="0.00" />
+<modifier id="394" name="Five Star" amount="0.00" />
+<modifier id="395" name="Cashew Chicken" amount="0.00" />
+<modifier id="396" name="Tex Mex" amount="0.00" />
+<modifier id="397" name="Chicago Fire" amount="0.00" />
+<modifier id="398" name="Hawaiian Chicken" amount="0.00" />
+<modifier id="399" name="Maui Chicken" amount="0.00" />
+<modifier id="400" name="Cubs" amount="0.00" />
+<modifier id="401" name="Buffalo Chicken" amount="0.00" />
+<modifier id="402" name="Margherita" amount="0.00" />
+<modifier id="403" name="Vegetarian" amount="0.00" />
+<modifier id="404" name="Mom`s Combo" amount="0.00" />
+<modifier id="405" name="Chicken Fajita" amount="0.00" />
+<modifier id="406" name="Beef Taco " amount="0.00" />
+<modifier id="407" name="Chicken Taco" amount="0.00" />
+<modifier id="408" name="Garlic Chicken" amount="0.00" />
+<modifier id="409" name="Garden Vegetable" amount="0.00" />
+<modifier id="466" name="Chicken Pesto" amount="0.00" />
+<modifier id="467" name="Garlic Gourmet" amount="0.00" />
+<modifier id="468" name="Margherita FB" amount="0.00" />
+<modifier id="469" name="Artichoke Delight" amount="0.00" />
+<modifier id="470" name="Marcotta" amount="0.00" />
+<modifier id="471" name="Meat Trio" amount="0.00" />
+<modifier id="472" name="BCT" amount="0.00" />
+<modifier id="473" name="THIN CRUST" amount="0.00" />
+<modifier id="820" name="Hawaiian" amount="0.00" />
+<modifier id="183" name="Sausage" amount="0.50" />
+<modifier id="184" name="Lean Beef" amount="0.50" />
+<modifier id="185" name="Chicken" amount="0.50" />
+<modifier id="186" name="Pepperoni" amount="0.50" />
+<modifier id="187" name="Artichoke Heart" amount="0.50" />
+<modifier id="188" name="Spinach" amount="0.50" />
+<modifier id="189" name="Onion" amount="0.50" />
+<modifier id="190" name="Mushroom" amount="0.50" />
+<modifier id="191" name="Olives" amount="0.50" />
+<modifier id="192" name="Garlic" amount="0.50" />
+<modifier id="633" name="Broccoli" amount="0.50" />
+<modifier id="636" name="Cheese" amount="0.00" />
+<modifier id="724" name="Green Pepper" amount="0.50" />
+<modifier id="725" name="Bacon" amount="0.50" />
+<modifier id="726" name="Fresh Tomato" amount="0.50" />
+<modifier id="727" name="Can Bacon" amount="0.50" />
+<modifier id="410" name="Italian Club" amount="0.00" />
+<modifier id="411" name="Zesty Chicago" amount="0.00" />
+<modifier id="412" name="Maui Chicken" amount="0.00" />
+<modifier id="413" name="Buffalo Chicken" amount="0.00" />
+<modifier id="414" name="Chicken &amp; Swiss" amount="0.00" />
+<modifier id="415" name="Turkey &amp; Swiss" amount="0.00" />
+<modifier id="416" name="Chicken, Bacon &amp; Ranch" amount="0.00" />
+<modifier id="417" name="Turkey, Bacon and Ranch" amount="0.00" />
+<modifier id="418" name="Canadian Chicken" amount="0.00" />
+<modifier id="419" name="Ham &amp; Cheese" amount="0.00" />
+<modifier id="420" name="Roast Beef &amp; Cheese" amount="0.00" />
+<modifier id="421" name="French Dip" amount="0.00" />
+<modifier id="422" name="Philly" amount="0.00" />
+<modifier id="343" name="Olives" amount="0.00" />
+<modifier id="344" name="Mushrooms" amount="0.00" />
+<modifier id="345" name="Red Onions" amount="0.00" />
+<modifier id="346" name="Green Peppers" amount="0.00" />
+<modifier id="347" name="Pepperoncinis" amount="0.00" />
+<modifier id="348" name="Jalapenos" amount="0.00" />
+<modifier id="718" name="Extra Meat 2oz" amount="1.00" />
+<modifier id="731" name="Alfalfa Sprouts" amount="0.00" />
+<modifier id="456" name="Pepperoni" amount="0.00" />
+<modifier id="457" name="Sausage" amount="0.00" />
+<modifier id="458" name="Canadian Bacon" amount="0.00" />
+<modifier id="461" name="Andoulle Sausage" amount="0.00" />
+<modifier id="462" name="Lean Beef" amount="0.00" />
+<modifier id="463" name="Bacon" amount="0.00" />
+<modifier id="474" name="Ham" amount="0.00" />
+<modifier id="475" name="Shrimp" amount="0.00" />
+<modifier id="476" name="Artichoke Hearts" amount="0.00" />
+<modifier id="477" name="Mesquite Chicken" amount="0.00" />
+<modifier id="478" name="Fresh Basil" amount="0.00" />
+<modifier id="479" name="Mushrooms" amount="0.00" />
+<modifier id="480" name="Black Olives" amount="0.00" />
+<modifier id="481" name="Green Peppers" amount="0.00" />
+<modifier id="482" name="Pepperoncini" amount="0.00" />
+<modifier id="483" name="Yellow Onions" amount="0.00" />
+<modifier id="484" name="Green Onions" amount="0.00" />
+<modifier id="485" name="Red Onions" amount="0.00" />
+<modifier id="486" name="Pineapple" amount="0.00" />
+<modifier id="487" name="Cashews" amount="0.00" />
+<modifier id="488" name="Spinach" amount="0.00" />
+<modifier id="489" name="Fresh Tomatoes" amount="0.00" />
+<modifier id="490" name="Sun Dried Tomatoes" amount="0.00" />
+<modifier id="491" name="Broccoli" amount="0.00" />
+<modifier id="492" name="Jalapenos" amount="0.00" />
+<modifier id="493" name="Anchovies" amount="0.00" />
+<modifier id="494" name="Garlic" amount="0.00" />
+<modifier id="679" name="Cheese" amount="0.00" />
+<modifier id="593" name="Garlic" amount="0.00" />
+<modifier id="594" name="Anchovies" amount="0.00" />
+<modifier id="595" name="Jalapenos" amount="0.00" />
+<modifier id="596" name="Broccoli" amount="0.00" />
+<modifier id="597" name="Sun Dried Tomato" amount="0.00" />
+<modifier id="598" name="Fresh Tomato" amount="0.00" />
+<modifier id="599" name="Spinach" amount="0.00" />
+<modifier id="600" name="Cashews" amount="0.00" />
+<modifier id="601" name="Pineapple" amount="0.00" />
+<modifier id="602" name="Red Onion" amount="0.00" />
+<modifier id="603" name="Green Onion" amount="0.00" />
+<modifier id="604" name="Yellow Onion" amount="0.00" />
+<modifier id="605" name="Pepperoncini" amount="0.00" />
+<modifier id="606" name="Green Peppers" amount="0.00" />
+<modifier id="607" name="Black Olives" amount="0.00" />
+<modifier id="608" name="Mushrooms" amount="0.00" />
+<modifier id="609" name="Basil" amount="0.00" />
+<modifier id="610" name="Sausage" amount="0.00" />
+<modifier id="611" name="Pepperoni" amount="0.00" />
+<modifier id="612" name="Salami" amount="0.00" />
+<modifier id="613" name="Canadian Bacon" amount="0.00" />
+<modifier id="614" name="Andouille Sausage" amount="0.00" />
+<modifier id="615" name="Lean Beef" amount="0.00" />
+<modifier id="616" name="Bacon" amount="0.00" />
+<modifier id="617" name="Ham" amount="0.00" />
+<modifier id="618" name="Shrimp" amount="0.00" />
+<modifier id="619" name="Artichoke Hearts" amount="0.00" />
+<modifier id="620" name="Mesquite Chicken" amount="0.00" />
+<modifier id="621" name="Thin Crust" amount="0.00" />
+<modifier id="623" name="Cheese" amount="0.00" />
+<modifier id="305" name="Coke" amount="0.00" />
+<modifier id="306" name="Diet Coke" amount="0.00" />
+<modifier id="307" name="Sprite" amount="0.00" />
+<modifier id="308" name="Dr. Pepper" amount="0.00" />
+<modifier id="309" name="Root Beer" amount="0.00" />
+<modifier id="310" name="Pink Lemonade" amount="0.00" />
+<modifier id="770" name="2ND" amount="0.00" />
+<modifier id="769" name="1ST" amount="0.00" />
+<modifier id="772" name="2ND-THIN CRUST" amount="0.00" />
+<modifier id="771" name="1ST-THIN CRUST" amount="0.00" />
+<modifier id="775" name="Add2nd" amount="1.00" />
+<modifier id="774" name="Add1st" amount="1.00" />
+<modifier id="516" name="Cashews" amount="0.45" />
+<modifier id="496" name="Sausage" amount="0.45" />
+<modifier id="497" name="Pepperoni" amount="0.45" />
+<modifier id="498" name="Salami" amount="0.45" />
+<modifier id="499" name="Canadian Bacon" amount="0.45" />
+<modifier id="500" name="Andoulle Sausage" amount="0.45" />
+<modifier id="501" name="Lean Beef" amount="0.45" />
+<modifier id="502" name="Bacon" amount="0.45" />
+<modifier id="503" name="Ham" amount="0.45" />
+<modifier id="504" name="Shrimp" amount="0.45" />
+<modifier id="505" name="Artichoke Hearts" amount="0.90" />
+<modifier id="506" name="Mesquite Chicken" amount="0.90" />
+<modifier id="507" name="Fresh Basil" amount="0.45" />
+<modifier id="508" name="Mushrooms" amount="0.45" />
+<modifier id="509" name="Black Olives" amount="0.45" />
+<modifier id="510" name="Green Peppers" amount="0.45" />
+<modifier id="511" name="Pepperoncinis" amount="0.45" />
+<modifier id="512" name="Yellow Onions" amount="0.45" />
+<modifier id="513" name="Green Onions" amount="0.45" />
+<modifier id="514" name="Red Onions" amount="0.45" />
+<modifier id="515" name="Pineapple" amount="0.45" />
+<modifier id="517" name="Spinach" amount="0.45" />
+<modifier id="518" name="Fresh Tomatoes" amount="0.45" />
+<modifier id="519" name="Sun Dried Tomatoes" amount="0.45" />
+<modifier id="520" name="Broccoli" amount="0.45" />
+<modifier id="521" name="Jalapenos" amount="0.45" />
+<modifier id="522" name="Anchovies" amount="0.45" />
+<modifier id="523" name="Garlic" amount="0.45" />
+<modifier id="658" name="Lite Sauce" amount="0.00" />
+<modifier id="659" name="Extra Sauce" amount="0.00" />
+<modifier id="660" name="No Sauce" amount="0.00" />
+<modifier id="681" name="No Cheese" amount="0.00" />
+<modifier id="682" name="Thin Crust" amount="0.00" />
+<modifier id="736" name="Artichoke Hearts N/C" amount="0.00" />
+<modifier id="737" name="Jalapenos N/C" amount="0.00" />
+<modifier id="738" name="Fresh Toms N/C" amount="0.00" />
+<modifier id="748" name="Creamy Garlic Sauce" amount="0.00" />
+<modifier id="749" name="BBQ Sauce" amount="0.00" />
+<modifier id="750" name="Marinara" amount="0.00" />
+<modifier id="751" name="Sweet/Spicy Sauce" amount="0.00" />
+<modifier id="752" name="Alfredo" amount="0.00" />
+<modifier id="753" name="Salsa" amount="0.00" />
+<modifier id="755" name="Ranch" amount="0.00" />
+<modifier id="311" name="Coke" amount="0.00" />
+<modifier id="312" name="Diet Coke" amount="0.00" />
+<modifier id="313" name="Sprite" amount="0.00" />
+<modifier id="314" name="Dr. Pepper" amount="0.00" />
+<modifier id="315" name="Root Beer" amount="0.00" />
+<modifier id="316" name="Pink Lemonade" amount="0.00" />
+<modifier id="317" name="Mellow Yellow" amount="0.00" />
+<modifier id="318" name="Powerade" amount="0.00" />
+<modifier id="680" name="Ice Tea" amount="0.00" />
+<modifier id="333" name="Breadsticks" amount="0.00" />
+<modifier id="792" name="NO Bread" amount="0.00" />
+<modifier id="334" name="Garlic Bread" amount="0.00" />
+<modifier id="39" name="White Roll" amount="0.00" />
+<modifier id="40" name="Wheat Roll" amount="0.00" />
+<modifier id="41" name="Flatbread" amount="0.00" />
+<modifier id="836" name="Fettucinne" amount="0.00" />
+<modifier id="837" name="Penne" amount="0.00" />
+<modifier id="838" name="Spaghetti" amount="0.00" />
+<modifier id="147" name="Marinara" amount="0.00" />
+<modifier id="148" name="Alfredo" amount="0.00" />
+<modifier id="149" name="Olive Oil" amount="0.00" />
+<modifier id="150" name="Pesto" amount="0.00" />
+<modifier id="226" name="Creamy Pesto" amount="0.00" />
+<modifier id="227" name="Sweet Creamy Thai" amount="0.00" />
+<modifier id="228" name="Creamy Rosa" amount="0.00" />
+<modifier id="232" name="Meatball" amount="0.00" />
+<modifier id="151" name="Chicken" amount="0.00" />
+<modifier id="152" name="Andouille Sausage" amount="0.00" />
+<modifier id="153" name="Bacon" amount="0.00" />
+<modifier id="154" name="Shrimp" amount="0.00" />
+<modifier id="155" name="Ham" amount="0.00" />
+<modifier id="156" name="Artichoke Heart" amount="0.00" />
+<modifier id="157" name="Fresh Basil" amount="0.00" />
+<modifier id="158" name="Mushroom" amount="0.00" />
+<modifier id="159" name="Spinach" amount="0.00" />
+<modifier id="160" name="Onion" amount="0.00" />
+<modifier id="161" name="Black Olive" amount="0.00" />
+<modifier id="162" name="Tomato" amount="0.00" />
+<modifier id="163" name="Sun-Dried Tomato" amount="0.00" />
+<modifier id="164" name="Garlic" amount="0.00" />
+<modifier id="165" name="Broccoli" amount="0.00" />
+<modifier id="166" name="Peas" amount="0.00" />
+<modifier id="167" name="Mozzarella Cheese" amount="0.00" />
+<modifier id="786" name="Coke" amount="0.00" />
+<modifier id="787" name="Diet Coke" amount="0.00" />
+<modifier id="788" name="Sprite" amount="0.00" />
+<modifier id="789" name="Dr Pepper" amount="0.00" />
+<modifier id="790" name="Root Beer" amount="0.00" />
+<modifier id="791" name="Pink Lemonade" amount="0.00" />
+<modifier id="430" name="Add Strawberry" amount="0.00" />
+<modifier id="260" name="Add Chicken" amount="1.95" />
+<modifier id="173" name="Sausage" amount="1.50" />
+<modifier id="174" name="Lean Beef" amount="1.50" />
+<modifier id="175" name="Chicken" amount="1.50" />
+<modifier id="176" name="Pepperoni" amount="1.50" />
+<modifier id="177" name="Artichoke Heart" amount="1.50" />
+<modifier id="178" name="Spinach" amount="1.50" />
+<modifier id="179" name="Onions" amount="1.50" />
+<modifier id="180" name="Mushroom" amount="1.50" />
+<modifier id="181" name="Olives" amount="1.50" />
+<modifier id="182" name="Garlic" amount="1.50" />
+<modifier id="808" name="Pineapple" amount="1.50" />
+<modifier id="632" name="broccoli" amount="1.50" />
+<modifier id="635" name="Cheese" amount="0.00" />
+<modifier id="720" name="Green Pepper" amount="1.50" />
+<modifier id="721" name="Bacon" amount="1.50" />
+<modifier id="722" name="Fresh Tomato" amount="1.50" />
+<modifier id="723" name="Can Bacon" amount="1.50" />
+<modifier id="237" name="Chicken" amount="1.50" />
+<modifier id="238" name="Meatball" amount="1.50" />
+<modifier id="239" name="Andouille Sausage" amount="1.50" />
+<modifier id="240" name="Bacon" amount="1.50" />
+<modifier id="241" name="Shrimp" amount="1.50" />
+<modifier id="242" name="Ham" amount="1.50" />
+<modifier id="243" name="Artichoke Hearts" amount="1.50" />
+<modifier id="244" name="Fresh Basil" amount="1.50" />
+<modifier id="245" name="Mushroom" amount="0.50" />
+<modifier id="246" name="Spinach" amount="0.50" />
+<modifier id="247" name="Onion" amount="0.50" />
+<modifier id="248" name="Black Olive" amount="0.50" />
+<modifier id="249" name="Tomato" amount="0.50" />
+<modifier id="250" name="Sun-dried Tomato" amount="0.50" />
+<modifier id="251" name="Garlic" amount="0.50" />
+<modifier id="252" name="Broccoli" amount="0.50" />
+<modifier id="253" name="Peas" amount="0.50" />
+<modifier id="254" name="Mozzarella Cheese" amount="0.50" />
+<modifier id="322" name="Sweet" amount="0.00" />
+<modifier id="323" name="Unsweetened" amount="0.00" />
+<modifier id="324" name="Raspberry" amount="0.00" />
+<modifier id="325" name="Green Tea" amount="0.00" />
+<modifier id="546" name="Ranch" amount="0.00" />
+<modifier id="547" name="Bleu Cheese" amount="0.00" />
+<modifier id="548" name="BBQ" amount="0.00" />
+<modifier id="549" name="Hot Sauce" amount="0.00" />
+<modifier id="550" name="Sweet Spicy Sauce" amount="0.00" />
+<modifier id="823" name="No Sauce" amount="0.00" />
+<modifier id="335" name="Ranch" amount="0.00" />
+<modifier id="336" name="Bleu Cheese" amount="0.00" />
+<modifier id="337" name="1000 Island" amount="0.00" />
+<modifier id="338" name="Honey Mustard" amount="0.00" />
+<modifier id="339" name="Apple Cider Viniagrette" amount="0.00" />
+<modifier id="436" name="No Dressing" amount="0.00" />
+<modifier id="557" name="Italian" amount="0.00" />
+<modifier id="540" name="Ranch" amount="0.00" />
+<modifier id="541" name="Bleu Cheese" amount="0.00" />
+<modifier id="542" name="1000 Island" amount="0.00" />
+<modifier id="543" name="Apple Cider Vin" amount="0.00" />
+<modifier id="544" name="Honey Mustard" amount="0.00" />
+<modifier id="558" name="Italian" amount="0.00" />
+<modifier id="559" name="Assorted" amount="0.00" />
+</modifier_info>
+<trimming_info>
+<modifier id="216" name="Lettuce" />
+<modifier id="217" name="Tomato" />
+<modifier id="220" name="Olive" />
+<modifier id="221" name="Mushroom" />
+<modifier id="222" name="Red Onion" />
+<modifier id="223" name="Green Pepper" />
+<modifier id="224" name="Pepperoncini" />
+<modifier id="225" name="Jalapeno" />
+<modifier id="264" name="Cheese" />
+<modifier id="265" name="Mozzarella" />
+<modifier id="266" name="Sauce" />
+<modifier id="267" name="Chicken" />
+<modifier id="268" name="Bacon" />
+<modifier id="270" name="Cheddar" />
+<modifier id="271" name="Ranch" />
+<modifier id="278" name="Ham" />
+<modifier id="282" name="Sausage" />
+<modifier id="283" name="Shrimp" />
+<modifier id="284" name="Oil" />
+<modifier id="285" name="Pepper Flakes" />
+<modifier id="287" name="Spinach" />
+<modifier id="289" name="Alfredo" />
+<modifier id="290" name="Salami" />
+<modifier id="291" name="Pineapple" />
+<modifier id="293" name="Pepperoni" />
+<modifier id="295" name="Canadian Bacon" />
+<modifier id="732" name="Alfalfa Sprouts" />
+<modifier id="733" name="Mayo" />
+<modifier id="734" name="Mustard" />
+<modifier id="735" name="Yellow Onion" />
+<modifier id="745" name="Creamy Garlic Sauce" />
+<modifier id="746" name="BBQ Sauce" />
+<modifier id="747" name="Salsa" />
+</trimming_info>
+<trimming_actions>
+<action id="6" name="" />
+<action id="1" name="No" />
+<action id="2" name="Only" />
+<action id="3" name="Extra" />
+<action id="4" name="Side" />
+<action id="5" name="Lite" />
+</trimming_actions>
+<size_info>
+<size id="1" name="" />
+<size id="16" name="Glass" />
+<size id="17" name="Pitcher" />
+<size id="3" name="Large" />
+<size id="5" name="Medium" />
+<size id="24" name="Gluten Free" />
+<size id="2" name="Small" />
+<size id="4" name="Individual" />
+<size id="11" name="Double" />
+<size id="10" name="Single" />
+<size id="12" name="Large w/Chix" />
+<size id="13" name="Small w/Chix" />
+<size id="18" name="10" />
+<size id="19" name="15" />
+<size id="20" name="20" />
+<size id="21" name="25" />
+</size_info>
+<tax_info>
+<tax_rate id="1" name="Sales Tax 1" rate="6.0000" />
+</tax_info>
+<pizza_info>
+<pizza_size id="4" name="Individual" />
+<pizza_size id="14" name="SM Gluten Free" />
+<pizza_size id="2" name="Small" />
+<pizza_size id="5" name="Medium" />
+<pizza_size id="6" name="Flatbread" />
+<pizza_size id="3" name="Large" />
+<pizza_size id="15" name="LG 4 MED" />
+<pizza_crust id="102" name="Deep Dish" />
+<pizza_crust id="101" name="Thin Crust" />
+<pizza_sauce id="754" name="Alfredo" />
+<pizza_sauce id="69" name="BBQ Sauce" />
+<pizza_sauce id="67" name="Marinara Sauce" />
+<pizza_sauce id="70" name="Olive Oil" />
+<pizza_sauce id="71" name="Pesto" />
+<pizza_sauce id="729" name="Pizza Sauce" />
+<pizza_sauce id="110" name="Ranch Sauce" />
+<pizza_sauce id="68" name="Roasted Garlic Sauce" />
+<pizza_sauce id="72" name="Salsa" />
+<pizza_sauce id="109" name="Thai Chili Sauce" />
+<pizza_sauce id="648" name="Extra Sauce" />
+<pizza_sauce id="645" name="Lite Sauce" />
+<pizza_sauce id="663" name="No Sauce" />
+<pizza_cheese id="111" name="Mozzarella" />
+<pizza_topping id="93" name="Anchovies">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="77" name="Andouille Sausage">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="79" name="Bacon">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="76" name="Canadian Bacon">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="106" name="Franks Chicken">
+<topping_size id="4" amount="1.00" />
+<topping_size id="14" amount="2.80" />
+<topping_size id="2" amount="2.80" />
+<topping_size id="5" amount="3.20" />
+<topping_size id="6" amount="1.00" />
+<topping_size id="3" amount="3.60" />
+<topping_size id="15" amount="3.20" />
+</pizza_topping>
+<pizza_topping id="80" name="Ham">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="73" name="Italian Sausage">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="78" name="Lean Beef">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="634" name="Meatballs">
+<topping_size id="4" amount="1.00" />
+<topping_size id="14" amount="2.80" />
+<topping_size id="2" amount="2.80" />
+<topping_size id="5" amount="3.20" />
+<topping_size id="6" amount="1.00" />
+<topping_size id="3" amount="3.60" />
+<topping_size id="15" amount="3.20" />
+</pizza_topping>
+<pizza_topping id="83" name="Mesquite Chicken">
+<topping_size id="4" amount="1.00" />
+<topping_size id="14" amount="2.80" />
+<topping_size id="2" amount="2.80" />
+<topping_size id="5" amount="3.20" />
+<topping_size id="6" amount="1.00" />
+<topping_size id="3" amount="3.60" />
+<topping_size id="15" amount="3.20" />
+</pizza_topping>
+<pizza_topping id="637" name="On Side">
+<topping_size id="6" amount="0.00" />
+</pizza_topping>
+<pizza_topping id="74" name="Pepperoni">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="75" name="Salami">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="81" name="Shrimp">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="82" name="Artichoke Heart">
+<topping_size id="4" amount="1.00" />
+<topping_size id="14" amount="2.80" />
+<topping_size id="2" amount="2.80" />
+<topping_size id="5" amount="3.20" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="3.60" />
+<topping_size id="15" amount="3.20" />
+</pizza_topping>
+<pizza_topping id="84" name="Basil">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="95" name="Black Olive">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="91" name="Broccoli">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="87" name="Cashew">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="94" name="Garlic">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="108" name="Green Onion">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="96" name="Green Pepper">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="798" name="Jalapenos">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="85" name="Mushroom">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="98" name="Onion">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="97" name="Pepperoncini">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="86" name="Pineapple">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="99" name="Red Onion">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="107" name="Red Pepper Flake">
+<topping_size id="14" amount="0.00" />
+<topping_size id="6" amount="0.50" />
+</pizza_topping>
+<pizza_topping id="88" name="Spinach">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="90" name="Sun-Dried Tomato">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="89" name="Tomato">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="651" name="Tomato Cook">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_topping id="524" name="Extra Cheese">
+<topping_size id="4" amount="0.50" />
+<topping_size id="14" amount="1.40" />
+<topping_size id="2" amount="1.40" />
+<topping_size id="5" amount="1.60" />
+<topping_size id="6" amount="0.50" />
+<topping_size id="3" amount="1.80" />
+<topping_size id="15" amount="1.60" />
+</pizza_topping>
+<pizza_location name="Whole" />
+<pizza_location name="H1" />
+<pizza_location name="H2" />
+<pizza_adjust name="Lite" />
+</pizza_info>
+<menu_info>
+<menu_item id="349" type="regular" name="#1 Create Your Own Individual Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="6.95" />
+<modifier id="367" amount="0.50" />
+<modifier id="369" amount="0.50" />
+<modifier id="366" amount="0.50" />
+<modifier id="370" amount="0.50" />
+<modifier id="363" amount="0.50" />
+<modifier id="368" amount="0.50" />
+<modifier id="371" amount="1.00" />
+<modifier id="364" amount="0.50" />
+<modifier id="365" amount="0.50" />
+<modifier id="452" amount="0.50" />
+<modifier id="372" amount="0.50" />
+<modifier id="389" amount="0.50" />
+<modifier id="373" amount="1.00" />
+<modifier id="376" amount="0.50" />
+<modifier id="386" amount="0.50" />
+<modifier id="390" amount="0.50" />
+<modifier id="374" amount="0.50" />
+<modifier id="387" amount="0.50" />
+<modifier id="384" amount="0.50" />
+<modifier id="380" amount="0.50" />
+<modifier id="377" amount="0.50" />
+<modifier id="388" amount="0.50" />
+<modifier id="375" amount="0.50" />
+<modifier id="378" amount="0.50" />
+<modifier id="382" amount="0.50" />
+<modifier id="381" amount="0.50" />
+<modifier id="385" amount="0.50" />
+<modifier id="383" amount="0.50" />
+<modifier id="379" amount="0.50" />
+<modifier id="554" amount="0.00" />
+<modifier id="459" amount="0.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+</menu_item>
+<menu_item id="350" type="regular" name="#2 Specialty Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.95" />
+<modifier id="393" amount="0.00" />
+<modifier id="406" amount="0.00" />
+<modifier id="401" amount="0.00" />
+<modifier id="395" amount="0.00" />
+<modifier id="391" amount="0.00" />
+<modifier id="397" amount="0.00" />
+<modifier id="405" amount="0.00" />
+<modifier id="407" amount="0.00" />
+<modifier id="400" amount="0.00" />
+<modifier id="394" amount="0.00" />
+<modifier id="409" amount="0.00" />
+<modifier id="408" amount="0.00" />
+<modifier id="820" amount="0.00" />
+<modifier id="398" amount="0.00" />
+<modifier id="392" amount="0.00" />
+<modifier id="402" amount="0.00" />
+<modifier id="399" amount="0.00" />
+<modifier id="404" amount="0.00" />
+<modifier id="396" amount="0.00" />
+<modifier id="403" amount="0.00" />
+<modifier id="469" amount="0.00" />
+<modifier id="472" amount="0.00" />
+<modifier id="466" amount="0.00" />
+<modifier id="467" amount="0.00" />
+<modifier id="470" amount="0.00" />
+<modifier id="468" amount="0.00" />
+<modifier id="471" amount="0.00" />
+<modifier id="473" amount="0.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+</menu_item>
+<menu_item id="351" type="regular" name="#3 7`` Lasagna Pie" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="187" amount="0.50" />
+<modifier id="725" amount="0.50" />
+<modifier id="633" amount="0.50" />
+<modifier id="727" amount="0.50" />
+<modifier id="636" amount="0.00" />
+<modifier id="185" amount="0.50" />
+<modifier id="726" amount="0.50" />
+<modifier id="192" amount="0.50" />
+<modifier id="724" amount="0.50" />
+<modifier id="184" amount="0.50" />
+<modifier id="190" amount="0.50" />
+<modifier id="191" amount="0.50" />
+<modifier id="189" amount="0.50" />
+<modifier id="186" amount="0.50" />
+<modifier id="183" amount="0.50" />
+<modifier id="188" amount="0.50" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+</menu_item>
+<menu_item id="352" type="regular" name="#4 1/2 Sandwich" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="413" amount="0.00" />
+<modifier id="418" amount="0.00" />
+<modifier id="414" amount="0.00" />
+<modifier id="416" amount="0.00" />
+<modifier id="421" amount="0.00" />
+<modifier id="419" amount="0.00" />
+<modifier id="410" amount="0.00" />
+<modifier id="412" amount="0.00" />
+<modifier id="422" amount="0.00" />
+<modifier id="420" amount="0.00" />
+<modifier id="415" amount="0.00" />
+<modifier id="417" amount="0.00" />
+<modifier id="411" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+</menu_item>
+<menu_item id="353" type="regular" name="#5 Soup/Salad/2Stix" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.95" />
+</menu_item>
+<menu_item id="433" type="regular" name="#6 1/2 Sandwich &amp; Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.95" />
+<modifier id="413" amount="0.00" />
+<modifier id="418" amount="0.00" />
+<modifier id="414" amount="0.00" />
+<modifier id="416" amount="0.00" />
+<modifier id="421" amount="0.00" />
+<modifier id="419" amount="0.00" />
+<modifier id="410" amount="0.00" />
+<modifier id="412" amount="0.00" />
+<modifier id="422" amount="0.00" />
+<modifier id="420" amount="0.00" />
+<modifier id="415" amount="0.00" />
+<modifier id="417" amount="0.00" />
+<modifier id="411" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="354" type="regular" name="#6 Individual Pizza or Half Sandwich &amp; S" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.95" />
+<modifier id="393" amount="0.00" />
+<modifier id="406" amount="0.00" />
+<modifier id="401" amount="0.00" />
+<modifier id="395" amount="0.00" />
+<modifier id="391" amount="0.00" />
+<modifier id="397" amount="0.00" />
+<modifier id="405" amount="0.00" />
+<modifier id="407" amount="0.00" />
+<modifier id="400" amount="0.00" />
+<modifier id="394" amount="0.00" />
+<modifier id="409" amount="0.00" />
+<modifier id="408" amount="0.00" />
+<modifier id="820" amount="0.00" />
+<modifier id="398" amount="0.00" />
+<modifier id="392" amount="0.00" />
+<modifier id="402" amount="0.00" />
+<modifier id="399" amount="0.00" />
+<modifier id="404" amount="0.00" />
+<modifier id="396" amount="0.00" />
+<modifier id="403" amount="0.00" />
+<modifier id="469" amount="0.00" />
+<modifier id="472" amount="0.00" />
+<modifier id="466" amount="0.00" />
+<modifier id="467" amount="0.00" />
+<modifier id="470" amount="0.00" />
+<modifier id="468" amount="0.00" />
+<modifier id="471" amount="0.00" />
+<modifier id="473" amount="0.00" />
+<modifier id="493" amount="0.00" />
+<modifier id="461" amount="0.00" />
+<modifier id="463" amount="0.00" />
+<modifier id="458" amount="0.00" />
+<modifier id="474" amount="0.00" />
+<modifier id="462" amount="0.00" />
+<modifier id="477" amount="0.00" />
+<modifier id="456" amount="0.00" />
+<modifier id="457" amount="0.00" />
+<modifier id="475" amount="0.00" />
+<modifier id="476" amount="0.00" />
+<modifier id="480" amount="0.00" />
+<modifier id="491" amount="0.00" />
+<modifier id="487" amount="0.00" />
+<modifier id="478" amount="0.00" />
+<modifier id="489" amount="0.00" />
+<modifier id="494" amount="0.00" />
+<modifier id="484" amount="0.00" />
+<modifier id="481" amount="0.00" />
+<modifier id="492" amount="0.00" />
+<modifier id="479" amount="0.00" />
+<modifier id="482" amount="0.00" />
+<modifier id="486" amount="0.00" />
+<modifier id="485" amount="0.00" />
+<modifier id="488" amount="0.00" />
+<modifier id="490" amount="0.00" />
+<modifier id="483" amount="0.00" />
+<modifier id="679" amount="0.00" />
+<modifier id="614" amount="0.00" />
+<modifier id="616" amount="0.00" />
+<modifier id="613" amount="0.00" />
+<modifier id="617" amount="0.00" />
+<modifier id="615" amount="0.00" />
+<modifier id="620" amount="0.00" />
+<modifier id="611" amount="0.00" />
+<modifier id="612" amount="0.00" />
+<modifier id="610" amount="0.00" />
+<modifier id="618" amount="0.00" />
+<modifier id="594" amount="0.00" />
+<modifier id="619" amount="0.00" />
+<modifier id="609" amount="0.00" />
+<modifier id="607" amount="0.00" />
+<modifier id="596" amount="0.00" />
+<modifier id="600" amount="0.00" />
+<modifier id="598" amount="0.00" />
+<modifier id="593" amount="0.00" />
+<modifier id="603" amount="0.00" />
+<modifier id="606" amount="0.00" />
+<modifier id="595" amount="0.00" />
+<modifier id="608" amount="0.00" />
+<modifier id="605" amount="0.00" />
+<modifier id="601" amount="0.00" />
+<modifier id="602" amount="0.00" />
+<modifier id="599" amount="0.00" />
+<modifier id="597" amount="0.00" />
+<modifier id="604" amount="0.00" />
+<modifier id="623" amount="0.00" />
+<modifier id="621" amount="0.00" />
+</menu_item>
+<menu_item id="629" type="regular" name="1/2 ham w/chips" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.95" />
+</menu_item>
+<menu_item id="630" type="regular" name="1/2 turkey w/chips" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.95" />
+</menu_item>
+<menu_item id="529" type="regular" name="12oz Ranch" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.95" />
+</menu_item>
+<menu_item id="299" type="regular" name="2 Liter" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.19" />
+<modifier id="305" amount="0.00" />
+<modifier id="306" amount="0.00" />
+<modifier id="308" amount="0.00" />
+<modifier id="310" amount="0.00" />
+<modifier id="309" amount="0.00" />
+<modifier id="307" amount="0.00" />
+</menu_item>
+<menu_item id="561" type="regular" name="2 Medium 1 Topping Pizzas" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="19.95" />
+<modifier id="769" amount="0.00" />
+<modifier id="770" amount="0.00" />
+<modifier id="771" amount="0.00" />
+<modifier id="772" amount="0.00" />
+<modifier id="774" amount="1.00" />
+<modifier id="775" amount="1.00" />
+</menu_item>
+<menu_item id="300" type="regular" name="20oz Bottle" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.69" />
+<modifier id="305" amount="0.00" />
+<modifier id="306" amount="0.00" />
+<modifier id="308" amount="0.00" />
+<modifier id="310" amount="0.00" />
+<modifier id="309" amount="0.00" />
+<modifier id="307" amount="0.00" />
+</menu_item>
+<menu_item id="528" type="regular" name="2oz Ranch" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.50" />
+</menu_item>
+<menu_item id="127" type="regular" name="3 Breadsticks" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.75" />
+</menu_item>
+<menu_item id="742" type="regular" name="3oz Ranch" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.75" />
+</menu_item>
+<menu_item id="800" type="regular" name="6 Breadsticks" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.50" />
+</menu_item>
+<menu_item id="464" type="regular" name="7.95 Lunch Special" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="7.95" />
+<modifier id="493" amount="0.00" />
+<modifier id="461" amount="0.00" />
+<modifier id="463" amount="0.00" />
+<modifier id="458" amount="0.00" />
+<modifier id="474" amount="0.00" />
+<modifier id="462" amount="0.00" />
+<modifier id="477" amount="0.00" />
+<modifier id="456" amount="0.00" />
+<modifier id="457" amount="0.00" />
+<modifier id="475" amount="0.00" />
+<modifier id="476" amount="0.00" />
+<modifier id="480" amount="0.00" />
+<modifier id="491" amount="0.00" />
+<modifier id="487" amount="0.00" />
+<modifier id="478" amount="0.00" />
+<modifier id="489" amount="0.00" />
+<modifier id="494" amount="0.00" />
+<modifier id="484" amount="0.00" />
+<modifier id="481" amount="0.00" />
+<modifier id="492" amount="0.00" />
+<modifier id="479" amount="0.00" />
+<modifier id="482" amount="0.00" />
+<modifier id="486" amount="0.00" />
+<modifier id="485" amount="0.00" />
+<modifier id="488" amount="0.00" />
+<modifier id="490" amount="0.00" />
+<modifier id="483" amount="0.00" />
+<modifier id="679" amount="0.00" />
+<modifier id="522" amount="0.45" />
+<modifier id="500" amount="0.45" />
+<modifier id="502" amount="0.45" />
+<modifier id="499" amount="0.45" />
+<modifier id="503" amount="0.45" />
+<modifier id="501" amount="0.45" />
+<modifier id="506" amount="0.90" />
+<modifier id="497" amount="0.45" />
+<modifier id="498" amount="0.45" />
+<modifier id="496" amount="0.45" />
+<modifier id="504" amount="0.45" />
+<modifier id="505" amount="0.90" />
+<modifier id="736" amount="0.00" />
+<modifier id="509" amount="0.45" />
+<modifier id="520" amount="0.45" />
+<modifier id="516" amount="0.45" />
+<modifier id="507" amount="0.45" />
+<modifier id="518" amount="0.45" />
+<modifier id="738" amount="0.00" />
+<modifier id="523" amount="0.45" />
+<modifier id="513" amount="0.45" />
+<modifier id="510" amount="0.45" />
+<modifier id="521" amount="0.45" />
+<modifier id="737" amount="0.00" />
+<modifier id="508" amount="0.45" />
+<modifier id="511" amount="0.45" />
+<modifier id="515" amount="0.45" />
+<modifier id="514" amount="0.45" />
+<modifier id="517" amount="0.45" />
+<modifier id="519" amount="0.45" />
+<modifier id="512" amount="0.45" />
+<modifier id="752" amount="0.00" />
+<modifier id="749" amount="0.00" />
+<modifier id="748" amount="0.00" />
+<modifier id="750" amount="0.00" />
+<modifier id="755" amount="0.00" />
+<modifier id="753" amount="0.00" />
+<modifier id="751" amount="0.00" />
+<modifier id="659" amount="0.00" />
+<modifier id="658" amount="0.00" />
+<modifier id="681" amount="0.00" />
+<modifier id="660" amount="0.00" />
+<modifier id="682" amount="0.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+<modifier id="311" amount="0.00" />
+<modifier id="312" amount="0.00" />
+<modifier id="314" amount="0.00" />
+<modifier id="680" amount="0.00" />
+<modifier id="317" amount="0.00" />
+<modifier id="316" amount="0.00" />
+<modifier id="318" amount="0.00" />
+<modifier id="315" amount="0.00" />
+<modifier id="313" amount="0.00" />
+</menu_item>
+<menu_item id="121" type="regular" name="7``" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.25" />
+<modifier id="187" amount="0.50" />
+<modifier id="725" amount="0.50" />
+<modifier id="633" amount="0.50" />
+<modifier id="727" amount="0.50" />
+<modifier id="636" amount="0.00" />
+<modifier id="185" amount="0.50" />
+<modifier id="726" amount="0.50" />
+<modifier id="192" amount="0.50" />
+<modifier id="724" amount="0.50" />
+<modifier id="184" amount="0.50" />
+<modifier id="190" amount="0.50" />
+<modifier id="191" amount="0.50" />
+<modifier id="189" amount="0.50" />
+<modifier id="186" amount="0.50" />
+<modifier id="183" amount="0.50" />
+<modifier id="188" amount="0.50" />
+</menu_item>
+<menu_item id="441" type="regular" name="Ale`s of No Return" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="843" type="regular" name="All Meat Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="29" type="regular" name="Baked Spaghetti Meatball" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="27" type="regular" name="Beef Ravioli" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+</menu_item>
+<menu_item id="855" type="regular" name="Beef Taco" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="20" type="regular" name="Brownie Sundae" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.95" />
+</menu_item>
+<menu_item id="437" type="regular" name="Bud Light" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="2.75" />
+<size id="17" amount="9.75" />
+</menu_item>
+<menu_item id="229" type="regular" name="Buffalo Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="860" type="regular" name="Buffalo Chicken Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="4" amount="2.98" />
+<size id="2" amount="6.98" />
+<size id="24" amount="7.98" />
+<size id="5" amount="8.88" />
+<size id="3" amount="9.78" />
+</menu_item>
+<menu_item id="22" type="regular" name="Cajun Pasta" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="11" type="regular" name="Canadian Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="848" type="regular" name="Canadian Chicken Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="827" type="regular" name="Caramel Apple Cranny Pie" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.50" />
+</menu_item>
+<menu_item id="846" type="regular" name="Cashew Chicken Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="841" type="regular" name="Chicago Combo Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+<size id="24" amount="7.98" />
+</menu_item>
+<menu_item id="8" type="regular" name="Chicken &amp; Swiss" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="6" type="regular" name="Chicken Bacon Ranch" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="854" type="regular" name="Chicken Fajita" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="24" type="regular" name="Chicken Mushroom" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="856" type="regular" name="Chicken Taco" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="15" type="regular" name="Corned Beef" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+</menu_item>
+<menu_item id="16" type="regular" name="Corned Beef" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+</menu_item>
+<menu_item id="139" type="regular" name="Create Pasta" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="836" amount="0.00" />
+<modifier id="837" amount="0.00" />
+<modifier id="838" amount="0.00" />
+<modifier id="148" amount="0.00" />
+<modifier id="226" amount="0.00" />
+<modifier id="228" amount="0.00" />
+<modifier id="147" amount="0.00" />
+<modifier id="149" amount="0.00" />
+<modifier id="150" amount="0.00" />
+<modifier id="227" amount="0.00" />
+<modifier id="152" amount="0.00" />
+<modifier id="156" amount="0.00" />
+<modifier id="153" amount="0.00" />
+<modifier id="151" amount="0.00" />
+<modifier id="157" amount="0.00" />
+<modifier id="155" amount="0.00" />
+<modifier id="232" amount="0.00" />
+<modifier id="154" amount="0.00" />
+<modifier id="161" amount="0.00" />
+<modifier id="165" amount="0.00" />
+<modifier id="164" amount="0.00" />
+<modifier id="167" amount="0.00" />
+<modifier id="158" amount="0.00" />
+<modifier id="160" amount="0.00" />
+<modifier id="166" amount="0.00" />
+<modifier id="159" amount="0.00" />
+<modifier id="163" amount="0.00" />
+<modifier id="162" amount="0.00" />
+</menu_item>
+<menu_item id="847" type="regular" name="CuBS Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="4" amount="2.98" />
+<size id="2" amount="6.98" />
+</menu_item>
+<menu_item id="537" type="regular" name="CUT" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="805" type="regular" name="Double Garlic Bread" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.50" />
+</menu_item>
+<menu_item id="743" type="regular" name="Extra 2oz Dressing" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.50" />
+</menu_item>
+<menu_item id="744" type="regular" name="Extra 3oz Dressing" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.75" />
+</menu_item>
+<menu_item id="780" type="regular" name="Fettuccine Primavera" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="25" type="regular" name="Fettuccine Primavera Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="844" type="regular" name="Five Star Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="301" type="regular" name="Fountain Drink" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.19" />
+<modifier id="311" amount="0.00" />
+<modifier id="312" amount="0.00" />
+<modifier id="314" amount="0.00" />
+<modifier id="680" amount="0.00" />
+<modifier id="317" amount="0.00" />
+<modifier id="316" amount="0.00" />
+<modifier id="318" amount="0.00" />
+<modifier id="315" amount="0.00" />
+<modifier id="313" amount="0.00" />
+</menu_item>
+<menu_item id="9" type="regular" name="French Dip" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="858" type="regular" name="Garden Vegetable Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="128" type="regular" name="Garlic Bread" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="11" amount="4.50" />
+<size id="10" amount="2.75" />
+</menu_item>
+<menu_item id="857" type="regular" name="Garlic Chicken Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="19" type="regular" name="Gluten Free Brownie" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.95" />
+</menu_item>
+<menu_item id="126" type="regular" name="Green Beans" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.95" />
+</menu_item>
+<menu_item id="12" type="regular" name="Ham &amp; Cheese" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="845" type="regular" name="Hawaiian Chicken Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+<size id="24" amount="7.98" />
+</menu_item>
+<menu_item id="818" type="regular" name="Isolation/ Odell" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="1" type="regular" name="Italian Club" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="631" type="regular" name="kids 1 topp" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.95" />
+<modifier id="493" amount="0.00" />
+<modifier id="461" amount="0.00" />
+<modifier id="463" amount="0.00" />
+<modifier id="458" amount="0.00" />
+<modifier id="474" amount="0.00" />
+<modifier id="462" amount="0.00" />
+<modifier id="477" amount="0.00" />
+<modifier id="456" amount="0.00" />
+<modifier id="457" amount="0.00" />
+<modifier id="475" amount="0.00" />
+<modifier id="476" amount="0.00" />
+<modifier id="480" amount="0.00" />
+<modifier id="491" amount="0.00" />
+<modifier id="487" amount="0.00" />
+<modifier id="478" amount="0.00" />
+<modifier id="489" amount="0.00" />
+<modifier id="494" amount="0.00" />
+<modifier id="484" amount="0.00" />
+<modifier id="481" amount="0.00" />
+<modifier id="492" amount="0.00" />
+<modifier id="479" amount="0.00" />
+<modifier id="482" amount="0.00" />
+<modifier id="486" amount="0.00" />
+<modifier id="485" amount="0.00" />
+<modifier id="488" amount="0.00" />
+<modifier id="490" amount="0.00" />
+<modifier id="483" amount="0.00" />
+<modifier id="679" amount="0.00" />
+<modifier id="522" amount="0.45" />
+<modifier id="500" amount="0.45" />
+<modifier id="502" amount="0.45" />
+<modifier id="499" amount="0.45" />
+<modifier id="503" amount="0.45" />
+<modifier id="501" amount="0.45" />
+<modifier id="506" amount="0.90" />
+<modifier id="497" amount="0.45" />
+<modifier id="498" amount="0.45" />
+<modifier id="496" amount="0.45" />
+<modifier id="504" amount="0.45" />
+<modifier id="505" amount="0.90" />
+<modifier id="736" amount="0.00" />
+<modifier id="509" amount="0.45" />
+<modifier id="520" amount="0.45" />
+<modifier id="516" amount="0.45" />
+<modifier id="507" amount="0.45" />
+<modifier id="518" amount="0.45" />
+<modifier id="738" amount="0.00" />
+<modifier id="523" amount="0.45" />
+<modifier id="513" amount="0.45" />
+<modifier id="510" amount="0.45" />
+<modifier id="521" amount="0.45" />
+<modifier id="737" amount="0.00" />
+<modifier id="508" amount="0.45" />
+<modifier id="511" amount="0.45" />
+<modifier id="515" amount="0.45" />
+<modifier id="514" amount="0.45" />
+<modifier id="517" amount="0.45" />
+<modifier id="519" amount="0.45" />
+<modifier id="512" amount="0.45" />
+<modifier id="752" amount="0.00" />
+<modifier id="749" amount="0.00" />
+<modifier id="748" amount="0.00" />
+<modifier id="750" amount="0.00" />
+<modifier id="755" amount="0.00" />
+<modifier id="753" amount="0.00" />
+<modifier id="751" amount="0.00" />
+<modifier id="659" amount="0.00" />
+<modifier id="658" amount="0.00" />
+<modifier id="681" amount="0.00" />
+<modifier id="660" amount="0.00" />
+<modifier id="682" amount="0.00" />
+</menu_item>
+<menu_item id="628" type="regular" name="kids 1 trip" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.95" />
+</menu_item>
+<menu_item id="627" type="regular" name="kids spag" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.95" />
+</menu_item>
+<menu_item id="799" type="regular" name="Lg1trip/2stix/Drink $7.95" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="7.95" />
+<modifier id="311" amount="0.00" />
+<modifier id="312" amount="0.00" />
+<modifier id="314" amount="0.00" />
+<modifier id="680" amount="0.00" />
+<modifier id="317" amount="0.00" />
+<modifier id="316" amount="0.00" />
+<modifier id="318" amount="0.00" />
+<modifier id="315" amount="0.00" />
+<modifier id="313" amount="0.00" />
+</menu_item>
+<menu_item id="626" type="regular" name="mac n che" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.95" />
+</menu_item>
+<menu_item id="18" type="regular" name="Mama Joy`s Brownies" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.95" />
+</menu_item>
+<menu_item id="853" type="regular" name="Margherita Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="2" amount="6.98" />
+<size id="24" amount="7.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="2" type="regular" name="Maui Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="852" type="regular" name="Maui Chicken Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+<size id="24" amount="7.98" />
+</menu_item>
+<menu_item id="739" type="regular" name="Meatball" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="10" type="regular" name="Meatball Sandwich" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+</menu_item>
+<menu_item id="23" type="regular" name="Mesquite Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+</menu_item>
+<menu_item id="859" type="regular" name="Mom`s Combo Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="811" type="regular" name="Monday $1 kids meal" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="-3.95" />
+</menu_item>
+<menu_item id="17" type="regular" name="New York Cheesecake" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.25" />
+<modifier id="430" amount="0.00" />
+</menu_item>
+<menu_item id="465" type="regular" name="Open Item" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="-1.00" />
+</menu_item>
+<menu_item id="527" type="regular" name="Parmesan" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="526" type="regular" name="Pepper Flakes" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="4" type="regular" name="Philly Cheese Steak" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="831" type="regular" name="Pranqster/Northcoast" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="819" type="regular" name="Printer Test" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+<modifier id="786" amount="0.00" />
+<modifier id="787" amount="0.00" />
+<modifier id="789" amount="0.00" />
+<modifier id="791" amount="0.00" />
+<modifier id="790" amount="0.00" />
+<modifier id="788" amount="0.00" />
+</menu_item>
+<menu_item id="826" type="regular" name="Pumkin Cranberry Bash" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.50" />
+</menu_item>
+<menu_item id="821" type="regular" name="Pumkin Wheat/ Shock Top" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="438" type="regular" name="Red Seal" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="14" type="regular" name="Reuben" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+</menu_item>
+<menu_item id="13" type="regular" name="Roast Beef Cheese" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="21" type="regular" name="Root Beer Float" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.95" />
+</menu_item>
+<menu_item id="28" type="regular" name="Rosemary Ravioli" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+</menu_item>
+<menu_item id="832" type="regular" name="Runoff Red/Odell" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="426" type="regular" name="Salted Caramel Cheesecake" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.25" />
+</menu_item>
+<menu_item id="804" type="regular" name="Single Garlic Bread" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.75" />
+</menu_item>
+<menu_item id="35" type="regular" name="Small 1-Trip Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.95" />
+<modifier id="260" amount="1.95" />
+</menu_item>
+<menu_item id="440" type="regular" name="Sockeye Porter" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="26" type="regular" name="Spicy Chicken Pasta" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="439" type="regular" name="St. Lupuline/Odell" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="319" type="regular" name="Strawberry Lemonade" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.75" />
+</menu_item>
+<menu_item id="625" type="regular" name="Test" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+</menu_item>
+<menu_item id="850" type="regular" name="Tex Mex Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="851" type="regular" name="The Chicago Fire Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="842" type="regular" name="The Islander Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="427" type="regular" name="Tiramisu Cheesecake" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.25" />
+</menu_item>
+<menu_item id="655" type="regular" name="To Go Menu" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="7" type="regular" name="Turkey &amp; Swiss" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="5" type="regular" name="Turkey Bacon Ranch" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="538" type="regular" name="UNCUT" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="425" type="regular" name="Vanilla Bean Cheesecake" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.25" />
+</menu_item>
+<menu_item id="740" type="regular" name="Vegetarian" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="849" type="regular" name="Vegetarian Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="9.78" />
+<size id="5" amount="8.88" />
+<size id="24" amount="7.98" />
+<size id="2" amount="6.98" />
+<size id="4" amount="2.98" />
+</menu_item>
+<menu_item id="428" type="regular" name="Yuko Lime Cheesecake" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.25" />
+</menu_item>
+<menu_item id="3" type="regular" name="Zesty Chicago" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="8.25" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="756" type="regular" name="-" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="122" type="regular" name="10``" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="13.95" />
+<modifier id="177" amount="1.50" />
+<modifier id="721" amount="1.50" />
+<modifier id="632" amount="1.50" />
+<modifier id="723" amount="1.50" />
+<modifier id="635" amount="0.00" />
+<modifier id="175" amount="1.50" />
+<modifier id="722" amount="1.50" />
+<modifier id="182" amount="1.50" />
+<modifier id="720" amount="1.50" />
+<modifier id="174" amount="1.50" />
+<modifier id="180" amount="1.50" />
+<modifier id="181" amount="1.50" />
+<modifier id="179" amount="1.50" />
+<modifier id="176" amount="1.50" />
+<modifier id="808" amount="1.50" />
+<modifier id="173" amount="1.50" />
+<modifier id="178" amount="1.50" />
+</menu_item>
+<menu_item id="442" type="regular" name="Bison Hop Cuvee" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="256" type="regular" name="Coffee" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.45" />
+</menu_item>
+<menu_item id="234" type="regular" name="Create Pasta Fettuccine" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="148" amount="0.00" />
+<modifier id="226" amount="0.00" />
+<modifier id="228" amount="0.00" />
+<modifier id="147" amount="0.00" />
+<modifier id="149" amount="0.00" />
+<modifier id="150" amount="0.00" />
+<modifier id="227" amount="0.00" />
+<modifier id="161" amount="0.00" />
+<modifier id="165" amount="0.00" />
+<modifier id="164" amount="0.00" />
+<modifier id="167" amount="0.00" />
+<modifier id="158" amount="0.00" />
+<modifier id="160" amount="0.00" />
+<modifier id="166" amount="0.00" />
+<modifier id="159" amount="0.00" />
+<modifier id="163" amount="0.00" />
+<modifier id="162" amount="0.00" />
+<modifier id="239" amount="1.50" />
+<modifier id="243" amount="1.50" />
+<modifier id="240" amount="1.50" />
+<modifier id="237" amount="1.50" />
+<modifier id="244" amount="1.50" />
+<modifier id="242" amount="1.50" />
+<modifier id="238" amount="1.50" />
+<modifier id="241" amount="1.50" />
+<modifier id="248" amount="0.50" />
+<modifier id="252" amount="0.50" />
+<modifier id="251" amount="0.50" />
+<modifier id="254" amount="0.50" />
+<modifier id="245" amount="0.50" />
+<modifier id="247" amount="0.50" />
+<modifier id="253" amount="0.50" />
+<modifier id="246" amount="0.50" />
+<modifier id="250" amount="0.50" />
+<modifier id="249" amount="0.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="233" type="regular" name="Create Pasta Penne" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="148" amount="0.00" />
+<modifier id="226" amount="0.00" />
+<modifier id="228" amount="0.00" />
+<modifier id="147" amount="0.00" />
+<modifier id="149" amount="0.00" />
+<modifier id="150" amount="0.00" />
+<modifier id="227" amount="0.00" />
+<modifier id="161" amount="0.00" />
+<modifier id="165" amount="0.00" />
+<modifier id="164" amount="0.00" />
+<modifier id="167" amount="0.00" />
+<modifier id="158" amount="0.00" />
+<modifier id="160" amount="0.00" />
+<modifier id="166" amount="0.00" />
+<modifier id="159" amount="0.00" />
+<modifier id="163" amount="0.00" />
+<modifier id="162" amount="0.00" />
+<modifier id="239" amount="1.50" />
+<modifier id="243" amount="1.50" />
+<modifier id="240" amount="1.50" />
+<modifier id="237" amount="1.50" />
+<modifier id="244" amount="1.50" />
+<modifier id="242" amount="1.50" />
+<modifier id="238" amount="1.50" />
+<modifier id="241" amount="1.50" />
+<modifier id="248" amount="0.50" />
+<modifier id="252" amount="0.50" />
+<modifier id="251" amount="0.50" />
+<modifier id="254" amount="0.50" />
+<modifier id="245" amount="0.50" />
+<modifier id="247" amount="0.50" />
+<modifier id="253" amount="0.50" />
+<modifier id="246" amount="0.50" />
+<modifier id="250" amount="0.50" />
+<modifier id="249" amount="0.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="235" type="regular" name="Create Pasta Spaghetti" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="9.50" />
+<modifier id="148" amount="0.00" />
+<modifier id="226" amount="0.00" />
+<modifier id="228" amount="0.00" />
+<modifier id="147" amount="0.00" />
+<modifier id="149" amount="0.00" />
+<modifier id="150" amount="0.00" />
+<modifier id="227" amount="0.00" />
+<modifier id="161" amount="0.00" />
+<modifier id="165" amount="0.00" />
+<modifier id="164" amount="0.00" />
+<modifier id="167" amount="0.00" />
+<modifier id="158" amount="0.00" />
+<modifier id="160" amount="0.00" />
+<modifier id="166" amount="0.00" />
+<modifier id="159" amount="0.00" />
+<modifier id="163" amount="0.00" />
+<modifier id="162" amount="0.00" />
+<modifier id="239" amount="1.50" />
+<modifier id="243" amount="1.50" />
+<modifier id="240" amount="1.50" />
+<modifier id="237" amount="1.50" />
+<modifier id="244" amount="1.50" />
+<modifier id="242" amount="1.50" />
+<modifier id="238" amount="1.50" />
+<modifier id="241" amount="1.50" />
+<modifier id="248" amount="0.50" />
+<modifier id="252" amount="0.50" />
+<modifier id="251" amount="0.50" />
+<modifier id="254" amount="0.50" />
+<modifier id="245" amount="0.50" />
+<modifier id="247" amount="0.50" />
+<modifier id="253" amount="0.50" />
+<modifier id="246" amount="0.50" />
+<modifier id="250" amount="0.50" />
+<modifier id="249" amount="0.50" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="803" type="regular" name="Double Cheese Bread" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="6.50" />
+</menu_item>
+<menu_item id="840" type="regular" name="Half &amp; Half" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="258" type="regular" name="Hot Chocolate" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.25" />
+</menu_item>
+<menu_item id="794" type="regular" name="Hot Tea" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.45" />
+</menu_item>
+<menu_item id="255" type="regular" name="Iced Tea" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="2.19" />
+<modifier id="322" amount="0.00" />
+<modifier id="323" amount="0.00" />
+<modifier id="324" amount="0.00" />
+<modifier id="325" amount="0.00" />
+</menu_item>
+<menu_item id="36" type="regular" name="Large 1-Trip Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="6.25" />
+<modifier id="260" amount="1.95" />
+</menu_item>
+<menu_item id="257" type="regular" name="Milk" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.25" />
+</menu_item>
+<menu_item id="129" type="regular" name="Single Cheese Bread" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.75" />
+</menu_item>
+<menu_item id="123" type="regular" name="12``" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="15.95" />
+<modifier id="177" amount="1.50" />
+<modifier id="721" amount="1.50" />
+<modifier id="632" amount="1.50" />
+<modifier id="723" amount="1.50" />
+<modifier id="635" amount="0.00" />
+<modifier id="175" amount="1.50" />
+<modifier id="722" amount="1.50" />
+<modifier id="182" amount="1.50" />
+<modifier id="720" amount="1.50" />
+<modifier id="174" amount="1.50" />
+<modifier id="180" amount="1.50" />
+<modifier id="181" amount="1.50" />
+<modifier id="179" amount="1.50" />
+<modifier id="176" amount="1.50" />
+<modifier id="808" amount="1.50" />
+<modifier id="173" amount="1.50" />
+<modifier id="178" amount="1.50" />
+</menu_item>
+<menu_item id="801" type="regular" name="8pc Bbq Wings" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.95" />
+<modifier id="546" amount="0.00" />
+<modifier id="547" amount="0.00" />
+<modifier id="548" amount="0.00" />
+<modifier id="549" amount="0.00" />
+<modifier id="550" amount="0.00" />
+<modifier id="823" amount="0.00" />
+</menu_item>
+<menu_item id="131" type="regular" name="8pc Hot Wings" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.95" />
+<modifier id="546" amount="0.00" />
+<modifier id="547" amount="0.00" />
+<modifier id="548" amount="0.00" />
+<modifier id="549" amount="0.00" />
+<modifier id="550" amount="0.00" />
+<modifier id="823" amount="0.00" />
+</menu_item>
+<menu_item id="830" type="regular" name="Accumulation/New Belgium" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="170" type="regular" name="AYCE Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="7.50" />
+<modifier id="260" amount="1.95" />
+</menu_item>
+<menu_item id="130" type="regular" name="Chicken Dippers Seasoned" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.50" />
+<modifier id="546" amount="0.00" />
+<modifier id="547" amount="0.00" />
+<modifier id="548" amount="0.00" />
+<modifier id="549" amount="0.00" />
+<modifier id="550" amount="0.00" />
+<modifier id="823" amount="0.00" />
+</menu_item>
+<menu_item id="802" type="regular" name="Chicken Dippers SPICY" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.50" />
+<modifier id="546" amount="0.00" />
+<modifier id="547" amount="0.00" />
+<modifier id="548" amount="0.00" />
+<modifier id="549" amount="0.00" />
+<modifier id="550" amount="0.00" />
+<modifier id="823" amount="0.00" />
+</menu_item>
+<menu_item id="320" type="regular" name="Chocolate Milk" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.25" />
+</menu_item>
+<menu_item id="340" type="regular" name="To-Go Salad Bar" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.25" />
+</menu_item>
+<menu_item id="829" type="regular" name="Winterfest/Sockeye" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="560" type="regular" name="2 Large 1 Topping Pizzas" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="21.95" />
+<modifier id="769" amount="0.00" />
+<modifier id="770" amount="0.00" />
+<modifier id="771" amount="0.00" />
+<modifier id="772" amount="0.00" />
+<modifier id="774" amount="1.00" />
+<modifier id="775" amount="1.00" />
+</menu_item>
+<menu_item id="812" type="regular" name="4 Free Brownies" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="-3.90" />
+</menu_item>
+<menu_item id="446" type="regular" name="Angry Orchard" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.50" />
+</menu_item>
+<menu_item id="813" type="regular" name="Free Gluten Free Brownie" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="-1.95" />
+</menu_item>
+<menu_item id="124" type="regular" name="Italian Meatballs" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.95" />
+</menu_item>
+<menu_item id="341" type="regular" name="Large To-Go Salad Bar" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="7.25" />
+</menu_item>
+<menu_item id="793" type="regular" name="Slaughter House/Payette" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="16" amount="4.00" />
+<size id="17" amount="14.00" />
+</menu_item>
+<menu_item id="125" type="regular" name="Toasted Ravioli" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="5.95" />
+</menu_item>
+<menu_item id="555" type="regular" name="$100" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="556" type="regular" name="$50" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="531" type="regular" name="Bag of Cookies" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.94" />
+</menu_item>
+<menu_item id="34" type="regular" name="Caesar Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="6.50" />
+<size id="12" amount="8.95" />
+<size id="2" amount="4.95" />
+<size id="13" amount="6.95" />
+</menu_item>
+<menu_item id="33" type="regular" name="Chef Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="8.95" />
+<size id="2" amount="6.95" />
+<modifier id="335" amount="0.00" />
+<modifier id="336" amount="0.00" />
+<modifier id="337" amount="0.00" />
+<modifier id="339" amount="0.00" />
+<modifier id="338" amount="0.00" />
+<modifier id="557" amount="0.00" />
+<modifier id="436" amount="0.00" />
+</menu_item>
+<menu_item id="30" type="regular" name="Chicken Bacon Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="8.95" />
+<size id="2" amount="6.95" />
+</menu_item>
+<menu_item id="822" type="regular" name="Cinnful Apple Angry Orchard" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.50" />
+</menu_item>
+<menu_item id="806" type="regular" name="Extra Marinara" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="447" type="regular" name="O`Dell IPA" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.00" />
+</menu_item>
+<menu_item id="31" type="regular" name="Southwest Chicken Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="8.95" />
+<size id="2" amount="6.95" />
+</menu_item>
+<menu_item id="32" type="regular" name="Spinach Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="8.95" />
+<size id="2" amount="6.95" />
+<modifier id="335" amount="0.00" />
+<modifier id="336" amount="0.00" />
+<modifier id="337" amount="0.00" />
+<modifier id="339" amount="0.00" />
+<modifier id="338" amount="0.00" />
+<modifier id="557" amount="0.00" />
+<modifier id="436" amount="0.00" />
+</menu_item>
+<menu_item id="443" type="regular" name="Cypress Cabernet Sauvignon" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.50" />
+</menu_item>
+<menu_item id="444" type="regular" name="Cypress Merlot" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.50" />
+</menu_item>
+<menu_item id="445" type="regular" name="Delle Venzie Pinot Grigio" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.50" />
+</menu_item>
+<menu_item id="653" type="regular" name="Dine In" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="37" type="regular" name="Soup " non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.25" />
+</menu_item>
+<menu_item id="809" type="regular" name="Free 3 Breadsticks" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="-2.75" />
+</menu_item>
+<menu_item id="525" type="regular" name="Side Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="3.50" />
+<modifier id="335" amount="0.00" />
+<modifier id="336" amount="0.00" />
+<modifier id="337" amount="0.00" />
+<modifier id="339" amount="0.00" />
+<modifier id="338" amount="0.00" />
+<modifier id="557" amount="0.00" />
+<modifier id="436" amount="0.00" />
+</menu_item>
+<menu_item id="551" type="regular" name="Employee Coffee" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="552" type="regular" name="Employee Coffee" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="536" type="regular" name="Bulk Salad" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="18" amount="23.50" />
+<size id="19" amount="35.25" />
+<size id="20" amount="47.00" />
+<size id="21" amount="58.75" />
+<modifier id="540" amount="0.00" />
+<modifier id="541" amount="0.00" />
+<modifier id="542" amount="0.00" />
+<modifier id="543" amount="0.00" />
+<modifier id="544" amount="0.00" />
+<modifier id="558" amount="0.00" />
+<modifier id="559" amount="0.00" />
+</menu_item>
+<menu_item id="535" type="regular" name="Extra Chips" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.94" />
+</menu_item>
+<menu_item id="741" type="regular" name="Extra Cookies" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="699" type="regular" name="Kids Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="700" type="regular" name="Kids Diet Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="701" type="regular" name="Kids Dr. Pepper" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="702" type="regular" name="Kids Mellow Yellow" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="703" type="regular" name="Kids Powerade" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="704" type="regular" name="Kids Root Beer" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="705" type="regular" name="Kids Sprite" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="711" type="regular" name="Pitcher Root Beer" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="719" type="regular" name="Gift Certificate" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="706" type="regular" name="Pitcher Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="707" type="regular" name="Pitcher Diet Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="708" type="regular" name="Pitcher Dr. Pepper" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="709" type="regular" name="Pitcher Mellow Yellow" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="710" type="regular" name="Pitcher Powerade" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="712" type="regular" name="Pitcher Sprite" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="638" type="regular" name="30 min" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="639" type="regular" name="35 min" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="640" type="regular" name="40 min" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="641" type="regular" name="40-45 min" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="642" type="regular" name="45-50 min" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="643" type="regular" name="50-60 min" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="644" type="regular" name="60 + mins" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="684" type="regular" name="Kids Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="685" type="regular" name="Kids Diet Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="686" type="regular" name="Kids Dr. Pepper" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="687" type="regular" name="Kids Mellow Yellow" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="688" type="regular" name="Kids Powerade" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="689" type="regular" name="Kids Root Beer" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="697" type="regular" name="Kids Sprite" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.00" />
+</menu_item>
+<menu_item id="713" type="regular" name="20 oz Fuze Ice Tea" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.69" />
+</menu_item>
+<menu_item id="714" type="regular" name="20 oz Water" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.69" />
+</menu_item>
+<menu_item id="690" type="regular" name="Pitcher Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="691" type="regular" name="Pitcher Diet Coke" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="692" type="regular" name="Pitcher Dr. Pepper" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="693" type="regular" name="Pitcher Mellow Yellow" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="694" type="regular" name="Pitcher Powerade" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="695" type="regular" name="Pitcher Root Beer" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="696" type="regular" name="Pitcher Sprite" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="4.00" />
+</menu_item>
+<menu_item id="698" type="regular" name="20 oz Fuze Ice Tea" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.69" />
+</menu_item>
+<menu_item id="715" type="regular" name="20oz Fuze Ice Tea" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.69" />
+</menu_item>
+<menu_item id="716" type="regular" name="20oz Water" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="1.69" />
+</menu_item>
+<menu_item id="781" type="regular" name="No Plates" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="530" type="regular" name="Plates" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="654" type="regular" name="Credit Card" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="532" type="regular" name="CUT" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="825" type="regular" name="DONT MAKE" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="533" type="regular" name="UNCUT" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="810" type="regular" name="Free 2Liter Soda" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="-2.19" />
+</menu_item>
+<menu_item id="652" type="regular" name="Message:" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="1" amount="0.00" />
+</menu_item>
+<menu_item id="361" type="pizza" name="#1 Create Your Own Pizza" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<modifier id="367" amount="0.50" />
+<modifier id="369" amount="0.50" />
+<modifier id="366" amount="0.50" />
+<modifier id="370" amount="0.50" />
+<modifier id="363" amount="0.50" />
+<modifier id="368" amount="0.50" />
+<modifier id="371" amount="1.00" />
+<modifier id="364" amount="0.50" />
+<modifier id="365" amount="0.50" />
+<modifier id="452" amount="0.50" />
+<modifier id="372" amount="0.50" />
+<modifier id="389" amount="0.50" />
+<modifier id="373" amount="1.00" />
+<modifier id="376" amount="0.50" />
+<modifier id="386" amount="0.50" />
+<modifier id="390" amount="0.50" />
+<modifier id="374" amount="0.50" />
+<modifier id="387" amount="0.50" />
+<modifier id="384" amount="0.50" />
+<modifier id="380" amount="0.50" />
+<modifier id="377" amount="0.50" />
+<modifier id="388" amount="0.50" />
+<modifier id="375" amount="0.50" />
+<modifier id="378" amount="0.50" />
+<modifier id="382" amount="0.50" />
+<modifier id="381" amount="0.50" />
+<modifier id="385" amount="0.50" />
+<modifier id="383" amount="0.50" />
+<modifier id="379" amount="0.50" />
+<modifier id="554" amount="0.00" />
+<modifier id="459" amount="0.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+</menu_item>
+<menu_item id="824" type="pizza" name="$11.11 Lg 1 top" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="11.11" />
+<included_toppings num="1" />
+</menu_item>
+<menu_item id="49" type="pizza" name="All Meat" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="393" amount="0.00" />
+<modifier id="406" amount="0.00" />
+<modifier id="401" amount="0.00" />
+<modifier id="395" amount="0.00" />
+<modifier id="391" amount="0.00" />
+<modifier id="397" amount="0.00" />
+<modifier id="405" amount="0.00" />
+<modifier id="407" amount="0.00" />
+<modifier id="400" amount="0.00" />
+<modifier id="394" amount="0.00" />
+<modifier id="409" amount="0.00" />
+<modifier id="408" amount="0.00" />
+<modifier id="820" amount="0.00" />
+<modifier id="398" amount="0.00" />
+<modifier id="392" amount="0.00" />
+<modifier id="402" amount="0.00" />
+<modifier id="399" amount="0.00" />
+<modifier id="404" amount="0.00" />
+<modifier id="396" amount="0.00" />
+<modifier id="403" amount="0.00" />
+<modifier id="469" amount="0.00" />
+<modifier id="472" amount="0.00" />
+<modifier id="466" amount="0.00" />
+<modifier id="467" amount="0.00" />
+<modifier id="470" amount="0.00" />
+<modifier id="468" amount="0.00" />
+<modifier id="471" amount="0.00" />
+<modifier id="473" amount="0.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+<cheese id="111" />
+<topping id="76" />
+<topping id="74" />
+<topping id="75" />
+<topping id="73" />
+</menu_item>
+<menu_item id="63" type="pizza" name="Beef Taco" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="187" amount="0.50" />
+<modifier id="725" amount="0.50" />
+<modifier id="633" amount="0.50" />
+<modifier id="727" amount="0.50" />
+<modifier id="636" amount="0.00" />
+<modifier id="185" amount="0.50" />
+<modifier id="726" amount="0.50" />
+<modifier id="192" amount="0.50" />
+<modifier id="724" amount="0.50" />
+<modifier id="184" amount="0.50" />
+<modifier id="190" amount="0.50" />
+<modifier id="191" amount="0.50" />
+<modifier id="189" amount="0.50" />
+<modifier id="186" amount="0.50" />
+<modifier id="183" amount="0.50" />
+<modifier id="188" amount="0.50" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+<sauce id="72" />
+<topping id="78" />
+<topping id="95" />
+<topping id="98" />
+<topping id="89" />
+</menu_item>
+<menu_item id="54" type="pizza" name="Buffalo Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="413" amount="0.00" />
+<modifier id="418" amount="0.00" />
+<modifier id="414" amount="0.00" />
+<modifier id="416" amount="0.00" />
+<modifier id="421" amount="0.00" />
+<modifier id="419" amount="0.00" />
+<modifier id="410" amount="0.00" />
+<modifier id="412" amount="0.00" />
+<modifier id="422" amount="0.00" />
+<modifier id="420" amount="0.00" />
+<modifier id="415" amount="0.00" />
+<modifier id="417" amount="0.00" />
+<modifier id="411" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+<sauce id="110" />
+<cheese id="111" />
+<topping id="112" />
+</menu_item>
+<menu_item id="55" type="pizza" name="Canadian Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<topping id="76" />
+<topping id="83" />
+</menu_item>
+<menu_item id="52" type="pizza" name="Cashew Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="413" amount="0.00" />
+<modifier id="418" amount="0.00" />
+<modifier id="414" amount="0.00" />
+<modifier id="416" amount="0.00" />
+<modifier id="421" amount="0.00" />
+<modifier id="419" amount="0.00" />
+<modifier id="410" amount="0.00" />
+<modifier id="412" amount="0.00" />
+<modifier id="422" amount="0.00" />
+<modifier id="420" amount="0.00" />
+<modifier id="415" amount="0.00" />
+<modifier id="417" amount="0.00" />
+<modifier id="411" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+<topping id="83" />
+<topping id="91" />
+<topping id="87" />
+</menu_item>
+<menu_item id="47" type="pizza" name="Chicago Combo" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="393" amount="0.00" />
+<modifier id="406" amount="0.00" />
+<modifier id="401" amount="0.00" />
+<modifier id="395" amount="0.00" />
+<modifier id="391" amount="0.00" />
+<modifier id="397" amount="0.00" />
+<modifier id="405" amount="0.00" />
+<modifier id="407" amount="0.00" />
+<modifier id="400" amount="0.00" />
+<modifier id="394" amount="0.00" />
+<modifier id="409" amount="0.00" />
+<modifier id="408" amount="0.00" />
+<modifier id="820" amount="0.00" />
+<modifier id="398" amount="0.00" />
+<modifier id="392" amount="0.00" />
+<modifier id="402" amount="0.00" />
+<modifier id="399" amount="0.00" />
+<modifier id="404" amount="0.00" />
+<modifier id="396" amount="0.00" />
+<modifier id="403" amount="0.00" />
+<modifier id="469" amount="0.00" />
+<modifier id="472" amount="0.00" />
+<modifier id="466" amount="0.00" />
+<modifier id="467" amount="0.00" />
+<modifier id="470" amount="0.00" />
+<modifier id="468" amount="0.00" />
+<modifier id="471" amount="0.00" />
+<modifier id="473" amount="0.00" />
+<modifier id="493" amount="0.00" />
+<modifier id="461" amount="0.00" />
+<modifier id="463" amount="0.00" />
+<modifier id="458" amount="0.00" />
+<modifier id="474" amount="0.00" />
+<modifier id="462" amount="0.00" />
+<modifier id="477" amount="0.00" />
+<modifier id="456" amount="0.00" />
+<modifier id="457" amount="0.00" />
+<modifier id="475" amount="0.00" />
+<modifier id="476" amount="0.00" />
+<modifier id="480" amount="0.00" />
+<modifier id="491" amount="0.00" />
+<modifier id="487" amount="0.00" />
+<modifier id="478" amount="0.00" />
+<modifier id="489" amount="0.00" />
+<modifier id="494" amount="0.00" />
+<modifier id="484" amount="0.00" />
+<modifier id="481" amount="0.00" />
+<modifier id="492" amount="0.00" />
+<modifier id="479" amount="0.00" />
+<modifier id="482" amount="0.00" />
+<modifier id="486" amount="0.00" />
+<modifier id="485" amount="0.00" />
+<modifier id="488" amount="0.00" />
+<modifier id="490" amount="0.00" />
+<modifier id="483" amount="0.00" />
+<modifier id="679" amount="0.00" />
+<modifier id="614" amount="0.00" />
+<modifier id="616" amount="0.00" />
+<modifier id="613" amount="0.00" />
+<modifier id="617" amount="0.00" />
+<modifier id="615" amount="0.00" />
+<modifier id="620" amount="0.00" />
+<modifier id="611" amount="0.00" />
+<modifier id="612" amount="0.00" />
+<modifier id="610" amount="0.00" />
+<modifier id="618" amount="0.00" />
+<modifier id="594" amount="0.00" />
+<modifier id="619" amount="0.00" />
+<modifier id="609" amount="0.00" />
+<modifier id="607" amount="0.00" />
+<modifier id="596" amount="0.00" />
+<modifier id="600" amount="0.00" />
+<modifier id="598" amount="0.00" />
+<modifier id="593" amount="0.00" />
+<modifier id="603" amount="0.00" />
+<modifier id="606" amount="0.00" />
+<modifier id="595" amount="0.00" />
+<modifier id="608" amount="0.00" />
+<modifier id="605" amount="0.00" />
+<modifier id="601" amount="0.00" />
+<modifier id="602" amount="0.00" />
+<modifier id="599" amount="0.00" />
+<modifier id="597" amount="0.00" />
+<modifier id="604" amount="0.00" />
+<modifier id="623" amount="0.00" />
+<modifier id="621" amount="0.00" />
+<topping id="76" />
+<topping id="74" />
+<topping id="75" />
+<topping id="73" />
+<topping id="96" />
+<topping id="85" />
+<topping id="95" />
+<topping id="98" />
+</menu_item>
+<menu_item id="58" type="pizza" name="Chicago Fire" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<topping id="77" />
+<topping id="76" />
+<topping id="74" />
+<topping id="75" />
+<topping id="86" />
+</menu_item>
+<menu_item id="62" type="pizza" name="Chicken Fajita" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<topping id="83" />
+<topping id="96" />
+<topping id="95" />
+<topping id="98" />
+<topping id="89" />
+</menu_item>
+<menu_item id="64" type="pizza" name="Chicken Taco" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<sauce id="72" />
+<topping id="83" />
+<topping id="95" />
+<topping id="98" />
+<topping id="89" />
+</menu_item>
+<menu_item id="104" type="pizza" name="Create" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="13.40" />
+<size id="5" amount="11.70" />
+<size id="2" amount="8.50" />
+<size id="14" amount="11.50" />
+<size id="4" amount="3.95" />
+<size id="15" amount="11.70" />
+</menu_item>
+<menu_item id="53" type="pizza" name="CuBS" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="305" amount="0.00" />
+<modifier id="306" amount="0.00" />
+<modifier id="308" amount="0.00" />
+<modifier id="310" amount="0.00" />
+<modifier id="309" amount="0.00" />
+<modifier id="307" amount="0.00" />
+<topping id="79" />
+<topping id="106" />
+<topping id="88" />
+</menu_item>
+<menu_item id="50" type="pizza" name="Five Star" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="769" amount="0.00" />
+<modifier id="770" amount="0.00" />
+<modifier id="771" amount="0.00" />
+<modifier id="772" amount="0.00" />
+<modifier id="774" amount="1.00" />
+<modifier id="775" amount="1.00" />
+<topping id="74" />
+<topping id="73" />
+<topping id="96" />
+<topping id="85" />
+<topping id="98" />
+</menu_item>
+<menu_item id="66" type="pizza" name="Garden Vegetable" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<modifier id="305" amount="0.00" />
+<modifier id="306" amount="0.00" />
+<modifier id="308" amount="0.00" />
+<modifier id="310" amount="0.00" />
+<modifier id="309" amount="0.00" />
+<modifier id="307" amount="0.00" />
+<crust id="103" />
+<sauce id="68" />
+<topping id="91" />
+<topping id="85" />
+<topping id="95" />
+<topping id="99" />
+<topping id="88" />
+<topping id="90" />
+</menu_item>
+<menu_item id="65" type="pizza" name="Garlic Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<crust id="103" />
+<sauce id="68" />
+<topping id="83" />
+<topping id="99" />
+<topping id="90" />
+</menu_item>
+<menu_item id="728" type="pizza" name="Hawaiian" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="4" amount="4.95" />
+<size id="5" amount="14.90" />
+<size id="3" amount="17.00" />
+<size id="15" amount="14.90" />
+<size id="14" amount="13.30" />
+<size id="2" amount="11.30" />
+<topping id="76" />
+<topping id="86" />
+</menu_item>
+<menu_item id="51" type="pizza" name="Hawaiian Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<topping id="83" />
+<topping id="86" />
+</menu_item>
+<menu_item id="48" type="pizza" name="Islander" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<sauce id="109" />
+<topping id="79" />
+<topping id="76" />
+<topping id="108" />
+<topping id="86" />
+<topping id="99" />
+<topping id="107" />
+</menu_item>
+<menu_item id="783" type="pizza" name="Lg 2Top (12.00)" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="12.00" />
+<modifier id="493" amount="0.00" />
+<modifier id="461" amount="0.00" />
+<modifier id="463" amount="0.00" />
+<modifier id="458" amount="0.00" />
+<modifier id="474" amount="0.00" />
+<modifier id="462" amount="0.00" />
+<modifier id="477" amount="0.00" />
+<modifier id="456" amount="0.00" />
+<modifier id="457" amount="0.00" />
+<modifier id="475" amount="0.00" />
+<modifier id="476" amount="0.00" />
+<modifier id="480" amount="0.00" />
+<modifier id="491" amount="0.00" />
+<modifier id="487" amount="0.00" />
+<modifier id="478" amount="0.00" />
+<modifier id="489" amount="0.00" />
+<modifier id="494" amount="0.00" />
+<modifier id="484" amount="0.00" />
+<modifier id="481" amount="0.00" />
+<modifier id="492" amount="0.00" />
+<modifier id="479" amount="0.00" />
+<modifier id="482" amount="0.00" />
+<modifier id="486" amount="0.00" />
+<modifier id="485" amount="0.00" />
+<modifier id="488" amount="0.00" />
+<modifier id="490" amount="0.00" />
+<modifier id="483" amount="0.00" />
+<modifier id="679" amount="0.00" />
+<modifier id="522" amount="0.45" />
+<modifier id="500" amount="0.45" />
+<modifier id="502" amount="0.45" />
+<modifier id="499" amount="0.45" />
+<modifier id="503" amount="0.45" />
+<modifier id="501" amount="0.45" />
+<modifier id="506" amount="0.90" />
+<modifier id="497" amount="0.45" />
+<modifier id="498" amount="0.45" />
+<modifier id="496" amount="0.45" />
+<modifier id="504" amount="0.45" />
+<modifier id="505" amount="0.90" />
+<modifier id="736" amount="0.00" />
+<modifier id="509" amount="0.45" />
+<modifier id="520" amount="0.45" />
+<modifier id="516" amount="0.45" />
+<modifier id="507" amount="0.45" />
+<modifier id="518" amount="0.45" />
+<modifier id="738" amount="0.00" />
+<modifier id="523" amount="0.45" />
+<modifier id="513" amount="0.45" />
+<modifier id="510" amount="0.45" />
+<modifier id="521" amount="0.45" />
+<modifier id="737" amount="0.00" />
+<modifier id="508" amount="0.45" />
+<modifier id="511" amount="0.45" />
+<modifier id="515" amount="0.45" />
+<modifier id="514" amount="0.45" />
+<modifier id="517" amount="0.45" />
+<modifier id="519" amount="0.45" />
+<modifier id="512" amount="0.45" />
+<modifier id="752" amount="0.00" />
+<modifier id="749" amount="0.00" />
+<modifier id="748" amount="0.00" />
+<modifier id="750" amount="0.00" />
+<modifier id="755" amount="0.00" />
+<modifier id="753" amount="0.00" />
+<modifier id="751" amount="0.00" />
+<modifier id="659" amount="0.00" />
+<modifier id="658" amount="0.00" />
+<modifier id="681" amount="0.00" />
+<modifier id="660" amount="0.00" />
+<modifier id="682" amount="0.00" />
+<modifier id="435" amount="0.00" />
+<modifier id="434" amount="0.00" />
+<modifier id="311" amount="0.00" />
+<modifier id="312" amount="0.00" />
+<modifier id="314" amount="0.00" />
+<modifier id="680" amount="0.00" />
+<modifier id="317" amount="0.00" />
+<modifier id="316" amount="0.00" />
+<modifier id="318" amount="0.00" />
+<modifier id="315" amount="0.00" />
+<modifier id="313" amount="0.00" />
+<crust id="102" />
+<sauce id="729" />
+<cheese id="111" />
+<included_toppings num="2" />
+</menu_item>
+<menu_item id="828" type="pizza" name="Lg Specialty &amp; 2 liter $16.95" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="16.95" />
+<modifier id="187" amount="0.50" />
+<modifier id="725" amount="0.50" />
+<modifier id="633" amount="0.50" />
+<modifier id="727" amount="0.50" />
+<modifier id="636" amount="0.00" />
+<modifier id="185" amount="0.50" />
+<modifier id="726" amount="0.50" />
+<modifier id="192" amount="0.50" />
+<modifier id="724" amount="0.50" />
+<modifier id="184" amount="0.50" />
+<modifier id="190" amount="0.50" />
+<modifier id="191" amount="0.50" />
+<modifier id="189" amount="0.50" />
+<modifier id="186" amount="0.50" />
+<modifier id="183" amount="0.50" />
+<modifier id="188" amount="0.50" />
+</menu_item>
+<menu_item id="797" type="pizza" name="Lg Surcharge pizza 1/2" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="0.90" />
+</menu_item>
+<menu_item id="61" type="pizza" name="Margherita" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<sauce id="70" />
+<cheese id="111" />
+<topping id="84" />
+<topping id="94" />
+<topping id="89" />
+</menu_item>
+<menu_item id="60" type="pizza" name="Maui Chicken" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<sauce id="69" />
+<topping id="79" />
+<topping id="106" />
+<topping id="86" />
+</menu_item>
+<menu_item id="796" type="pizza" name="Med Surcharge pizza 1/2" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="0.68" />
+<size id="5" amount="0.80" />
+<size id="15" amount="0.80" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="261" type="pizza" name="Moms Combo" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<topping id="91" />
+<topping id="88" />
+<topping id="89" />
+</menu_item>
+<menu_item id="59" type="pizza" name="Ragin Cajun" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="4" amount="5.75" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<topping id="77" />
+<topping id="106" />
+<topping id="96" />
+<topping id="99" />
+</menu_item>
+<menu_item id="795" type="pizza" name="Sm Surchard pizza 1/2" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="14" amount="0.68" />
+</menu_item>
+<menu_item id="57" type="pizza" name="Tex Mex" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<sauce id="69" />
+<topping id="83" />
+<topping id="798" />
+<topping id="99" />
+</menu_item>
+<menu_item id="56" type="pizza" name="Vegetarian" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="15" amount="17.75" />
+<crust id="102" />
+<sauce id="67" />
+<cheese id="111" />
+<topping id="96" />
+<topping id="85" />
+<topping id="95" />
+<topping id="98" />
+<topping id="89" />
+</menu_item>
+<menu_item id="114" type="pizza" name="Artichoke Delight" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="15" amount="17.75" />
+</menu_item>
+<menu_item id="118" type="pizza" name="BCT" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="15" amount="17.75" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="113" type="pizza" name="Chicken Pesto" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="15" amount="17.75" />
+<sauce id="71" />
+<cheese id="111" />
+<topping id="651" />
+</menu_item>
+<menu_item id="115" type="pizza" name="Garlic Gourmet" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="15" amount="17.75" />
+<modifier id="333" amount="0.00" />
+<modifier id="334" amount="0.00" />
+<modifier id="792" amount="0.00" />
+</menu_item>
+<menu_item id="116" type="pizza" name="Marcotta" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="15" amount="17.75" />
+<modifier id="41" amount="0.00" />
+<modifier id="40" amount="0.00" />
+<modifier id="39" amount="0.00" />
+<modifier id="731" amount="0.00" />
+<modifier id="346" amount="0.00" />
+<modifier id="348" amount="0.00" />
+<modifier id="344" amount="0.00" />
+<modifier id="343" amount="0.00" />
+<modifier id="347" amount="0.00" />
+<modifier id="345" amount="0.00" />
+<modifier id="718" amount="1.00" />
+</menu_item>
+<menu_item id="117" type="pizza" name="Meat Trio" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="6" amount="5.95" />
+<size id="14" amount="15.95" />
+<size id="4" amount="5.95" />
+<size id="2" amount="13.95" />
+<size id="5" amount="17.75" />
+<size id="3" amount="19.45" />
+<size id="15" amount="17.75" />
+</menu_item>
+<menu_item id="776" type="pizza" name="1st Large (21.95)" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="10.95" />
+<included_toppings num="1" />
+</menu_item>
+<menu_item id="777" type="pizza" name="2nd Large (21.95)" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="11.00" />
+<included_toppings num="1" />
+</menu_item>
+<menu_item id="778" type="pizza" name="1st Med (19.95)" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="5" amount="10.00" />
+<included_toppings num="1" />
+</menu_item>
+<menu_item id="779" type="pizza" name="2nd Med (19.95)" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="5" amount="9.95" />
+<included_toppings num="1" />
+</menu_item>
+<menu_item id="782" type="pizza" name="Lg 1Top (13.20)" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="13.20" />
+<crust id="102" />
+<sauce id="729" />
+<cheese id="111" />
+<included_toppings num="1" />
+</menu_item>
+<menu_item id="784" type="pizza" name="Lg 1Top 2Liter" non_taxed="0">
+<tax_rate id="1" rate="6.0000" />
+<size id="3" amount="14.95" />
+<crust id="102" />
+<sauce id="729" />
+<cheese id="111" />
+<included_toppings num="1" />
+</menu_item>
+</menu_info>
+<payment_info>
+<payment id="1" name="Cash" />
+<payment id="2" name="Check" />
+<payment id="3" name="MstrCard Visa" />
+<payment id="4" name="American Express" />
+<payment id="5" name="Discover" />
+<payment id="7" name="Customer Charge" />
+<payment id="15" name="Gift Card" />
+<payment id="13" name="Misc" />
+<payment id="11" name="Change" />
+<payment id="12" name="Tips" />
+</payment_info>
+</menu_information>

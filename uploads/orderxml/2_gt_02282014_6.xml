@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023591</site_id>
+  <password>USID0251</password>
+  <ticket_request>
+    <online_identifier>2897291982</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>02/28/2014</ready_date>
+    <ready_time>09:01:00</ready_time>
+    <subtotal>5.95</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">0.36</sales_tax>
+    <total>6.31</total>
+    <notes>Shivraj Singh,,9830020000,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="65" type="Pizza" quantity="1" name="Garlic Chicken Pizza">
+      <size id="4" name="Individual (7)" amount="5.95"/>
+      <kitchen_msg message="test"/>
+      <split id="65" name="Garlic Chicken Pizza"/>
+      <sauce id="645" name="Lite Sauce" location=""/>
+      <sauce id="68" name="Roasted Garlic " location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+      <topping id="90" name="Sun-Dried Tomato" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+    </ticket_item>
+  </ticket>
+  <payment id="" name="Online Credit Card" amount="6.31"/>
+  <customer>
+    <first_name>Shivraj</first_name>
+    <last_name>Singh</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RJ</state>
+    <postal>302011</postal>
+    <phone>9830020000</phone>
+    <email>shivrajawat@yahoo.com</email>
+    <this_contact>9830020000</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

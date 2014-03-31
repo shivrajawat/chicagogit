@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>1037754226</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/10/2014</ready_date>
+    <ready_time>01:09:00</ready_time>
+    <subtotal>20.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>0.00</gratuity>
+    <sales_tax id="1">1.10</sales_tax>
+    <total>19.50</total>
+    <notes>Surender Singh Shekhawat,,9636743309,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="52" type="Pizza" quantity="1" name="Cashew Chicken Pizza">
+      <size id="3" name="Large (14)" amount="20.45"/>
+      <kitchen_msg message=""/>
+      <split id="52" name="Cashew Chicken Pizza"/>
+      <topping id="538" name="Uncut" location=""/>
+      <crust id="102" name="Deep Dish"/>
+      <sauce id="729" name="Traditional Homemade Sauce" location="Whole"/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="83" name="Mesquite Chicken" location="Whole"/>
+      <topping id="91" name="Broccoli" location="Whole"/>
+      <topping id="87" name="Cashews" location="Whole"/>
+      <topping id="537" name="Cut" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="19.50"/>
+  <customer>
+    <first_name>Surender Singh</first_name>
+    <last_name>Shekhawat</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>RAJASTHAN</state>
+    <postal>302012</postal>
+    <phone>9636743309</phone>
+    <email>surendraindiajoin@gmail.com</email>
+    <this_contact>9636743309</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>

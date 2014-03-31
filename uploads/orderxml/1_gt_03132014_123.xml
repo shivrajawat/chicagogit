@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pos_request>
+  <site_id>1023656</site_id>
+  <password>USID0287</password>
+  <ticket_request>
+    <online_identifier>1090666365</online_identifier>
+    <ticket_type>P</ticket_type>
+    <ready_date>03/13/2014</ready_date>
+    <ready_time>01:21:00</ready_time>
+    <subtotal>9.45</subtotal>
+    <delivery_fee>0.00</delivery_fee>
+    <additional_fee>0.00</additional_fee>
+    <gratuity>2.00</gratuity>
+    <sales_tax id="1">0.51</sales_tax>
+    <total>11.01</total>
+    <notes>Sandeep Kumar Kuldeep,,9785009384,</notes>
+  </ticket_request>
+  <ticket>
+    <ticket_item id="115" type="Pizza" quantity="1" name="Garlic Gourmet">
+      <size id="6" name="Flatbread" amount="8.95"/>
+      <kitchen_msg message=""/>
+      <split id="115" name="Garlic Gourmet"/>
+      <sauce id="68" name="Roasted Garlic" location=""/>
+      <topping id="538" name="Uncut" location=""/>
+      <cheese id="111" name="Mozzarella" location="Whole"/>
+      <topping id="90" name="Sun-Dried Tomatoes" location="H1"/>
+      <topping id="88" name="Spinach" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="82" name="Artichoke Hearts" location="Whole"/>
+      <topping id="85" name="Fresh Mushrooms" location="Whole"/>
+      <topping id="95" name="Black Olives" location="Whole"/>
+      <topping id="96" name="Green Peppers" location="Whole"/>
+      <topping id="97" name="Pepperoncinis" location="Whole"/>
+      <modifier id="379" name="Yellow Onions" amount="0.50"/>
+      <topping id="10000" name="No Cheese" location=""/>
+      <topping id="524" name="Extra Cheese" location=""/>
+    </ticket_item>
+  </ticket>
+  <payment id="1" name="Cash" amount="11.01"/>
+  <customer>
+    <first_name>Sandeep Kumar</first_name>
+    <last_name>Kuldeep</last_name>
+    <addr/>
+    <city>Jaipur</city>
+    <state>Rajasthan</state>
+    <postal>30201</postal>
+    <phone>9785009384</phone>
+    <email>sandeep.kuldeep.jpr1@gmail.com</email>
+    <this_contact>9785009384</this_contact>
+  </customer>
+  <delivery_directions>Directions</delivery_directions>
+</pos_request>
